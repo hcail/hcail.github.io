@@ -5,8 +5,8 @@ title_s1: Undergraduate Research Intern
 title_s2: Kyung Hee University
 description: lmhapy25 [at] khu.ac.kr
 img: assets/img/spark.png
-importance: 3
-category: current
+importance: 20
+category: alumni
 ---
 
 ### Short Bio
@@ -22,7 +22,7 @@ category: current
 <ul>
 <li>Junior Researcher, Mercari R4D, Tokyo, Japan from Sep. 2021 to Oct. 2022.
 </li>
-<li>Undergraduate Research Intern, HCAIL, University of Seoul, Seoul, Korea from Sep.2019.
+<li>Undergraduate Research Intern, HCAIL, University of Seoul, Seoul, Korea from Sep. 2019.
 </li>
 </ul>
 
