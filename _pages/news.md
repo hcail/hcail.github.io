@@ -8,6 +8,22 @@ display_categories: [current, alumni]
 horizontal: false
 ---
 
+<h2>2024</h2>
+<ul>
+<li>
+  <p>[<b>Feb. 2024</b>] Congratulations! Hyunmin, SeungYoung and Yunseo won Encouragement Award at 실전문제연구단!</p>
+</li>
+<li>
+  <p>[<b>Jan. 2024</b>] Congratulations! Taewon and Hyunggu awarded Best Paper at HCI Korea 2024!</p>
+</li>
+<li>
+  <p>[<b>Jan. 2024</b>] Four papers were presented at HCI Korea 2024 in Hongcheon, Korea.</p>
+</li>
+<li>
+  <p>[<b>Jan. 2024</b>] Welcome! Yubin Kim joined HCAIL as a undergraduate research intern!</p>
+</li>
+</ul>
+
 <h2>2023</h2>
 
 <ul>
@@ -118,7 +134,6 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
     successfully! :sparkles: :smile:
     </p>
     </li>
-  <li>
   <li><p>[<b>Oct. 2022</b>] Congratulations! Sungmin Na was selected as a
   <a href="https://sigchi.org/gary-marsden-travel-award-recipients/">Gary Marsden Travel Awards</a> recipient.</p>
   </li>
