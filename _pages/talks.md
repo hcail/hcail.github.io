@@ -7,6 +7,14 @@ nav: true
 ---
 
 
+<h4>Taewon's Presentation@HCI Korea 2024</h4>
+<table id="TABLENAME">
+  <tr class="r1">
+    <td class="c2"><img src="/assets/img/ty_hcik_2024.jpeg" width="100%" style="vertical-align: -4px"></td>
+ </tr>
+</table>
+<br>
+
 <h4>UW HCDE Visit 2023</h4>
 <table id="TABLENAME">
   <tr class="r1">
@@ -50,7 +58,7 @@ nav: true
 <h4>University of Hawaii Visit 2023</h4>
 <table id="TABLENAME">
   <tr class="r1">
-    <td class="c2"><img src="/assets/img/uh_2023.jpg" width="100%" style="vertical-align: -4px"></td>
+    <td class="c2"><img src="/assets/img/uh_2023.jpeg" width="100%" style="vertical-align: -4px"></td>
  </tr>
 </table>
 <br>
