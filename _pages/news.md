@@ -11,7 +11,7 @@ horizontal: false
 <h2>2024</h2>
 <ul>
 <li>
-  <p>[<b>Feb. 2024</b>] Congratulations! Hyunmin, SeungYoung and Yunseo won Encouragement Award at 실전문제연구단!</p>
+  <p>[<b>Feb. 2024</b>] Congratulations! Hyunmin, SeungYoung and Yunseo won Encouragement Award at 실전문제연구팀 연구성과 공유한마당!</p>
 </li>
 <li>
   <p>[<b>Jan. 2024</b>] Congratulations! Taewon and Hyunggu awarded Best Paper at HCI Korea 2024!</p>
