@@ -15,6 +15,22 @@ nav: true
 </table>
 <br>
 
+<h4>Amazon Seattle Visit 2023</h4>
+<table id="TABLENAME">
+  <tr class="r1">
+    <td class="c2"><img src="/assets/img/as_2023.jpg" width="100%" style="vertical-align: -4px"></td>
+ </tr>
+</table>
+<br>
+
+<h4>Google Kirkland Visit 2023</h4>
+<table id="TABLENAME">
+  <tr class="r1">
+    <td class="c2"><img src="/assets/img/gk_2023.jpg" width="100%" style="vertical-align: -4px"></td>
+ </tr>
+</table>
+<br>
+
 <h4>Taewon's Presentation @ACM CSCW'23</h4>
 <table id="TABLENAME">
   <tr class="r1">
@@ -27,6 +43,14 @@ nav: true
 <table id="TABLENAME">
   <tr class="r1">
     <td class="c2"><img src="/assets/img/sna_cscw23.jpg" width="100%" style="vertical-align: -4px"></td>
+ </tr>
+</table>
+<br>
+
+<h4>University of Hawaii Visit 2023</h4>
+<table id="TABLENAME">
+  <tr class="r1">
+    <td class="c2"><img src="/assets/img/uh_2023.jpg" width="100%" style="vertical-align: -4px"></td>
  </tr>
 </table>
 <br>
