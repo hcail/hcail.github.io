@@ -11,6 +11,13 @@ horizontal: false
 <h2>2024</h2>
 <ul>
 <li>
+  <p>[<b>Feb. 2024</b>] Congratulations! The team HCAIL organized by our lab members including Hyunmin, SeungYoung, Yunseo, & Hyunggu won
+  the <a href="https://www.etnews.com/20240222000331">Excellent Prize</a> at the
+  <a href="https://www.autoeverapp.kr">Barrier Free App Development Contest</a> in
+  Korea! [<a href="https://www.youtube.com/watch?v=r2XfCuNE8g4">video</a>]        
+</p>
+</li>
+<li>
   <p>[<b>Feb. 2024</b>] Congratulations! Hyunmin, SeungYoung and Yunseo won Encouragement Award at 실전문제연구팀 연구성과 공유한마당!</p>
 </li>
 <li>
