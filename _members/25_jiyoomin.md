@@ -4,7 +4,7 @@ title: Jiyoo Min
 title_s1: Undergraduate Research Intern
 title_s2: University of Seoul
 description: jessy0618 [at] uos.ac.kr
-img: assets/img/jymin.png
+img: assets/img/jmin.png
 importance: 25
 category: current
 ---
