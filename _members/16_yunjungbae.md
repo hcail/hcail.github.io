@@ -5,8 +5,8 @@ title_s1: Undergraduate Research Intern
 title_s2: University of Southern California
 description: lbae [at] usc.edu
 img: assets/img/yjbae.png
-importance: 16
-category: current
+importance: 22
+category: alumni
 ---
 
 ### Short Bio

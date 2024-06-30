@@ -6,7 +6,7 @@ title_s2: University of Seoul
 description: jeongdahyunj [at] gmail.com
 img: assets/img/dhjeong.png
 importance: 23
-category: current
+category: alumni
 ---
 
 ### Short Bio
