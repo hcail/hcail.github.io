@@ -13,17 +13,17 @@ horizontal: false
 
 
 <li>
-  <p>[<b>August 2024</b>] Our paper has been accepted to appear at
+  <p>[<b>Aug. 2024</b>] Our paper has been accepted to appear at
   <a href="https://sites.google.com/view/aihci/">ASSETS'24</a>, St. John's, Newfoundland and Labrador, Canada (October 2024). :sparkles: :smile:
 </p>
 </li>
 <li>
-  <p>[<b>August 2024</b>] Hyunmin and Yunseo served as a student volunteer at
+  <p>[<b>Aug. 2024</b>] Hyunmin and Yunseo served as a student volunteer at
   <a href="https://ijcai24.org/">IJCAI’24</a>
   successfully! :sparkles: :smile:</p>
 </li>
 <li>
-  <p>[<b>August 2024</b>] Our paper was presented at <a href="https://ijcai24.org/">IJCAI 2024</a> in Seogwipo, Korea.</p>
+  <p>[<b>Aug. 2024</b>] Our paper was presented at <a href="https://ijcai24.org/">IJCAI 2024</a> in Seogwipo, Korea.</p>
 </li>
 <li>
   <p>[<b>July 2024</b>] Hyunggu served as an co-organizer, and Hyunmin, Jiyoo, & Yunseo as a student volunteer at the
