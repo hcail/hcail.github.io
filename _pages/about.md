@@ -20,8 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 <img src="./assets/img/ijcai24.jpg" alt="HCAIL at the IJCAI 2024 conference" width="100%" >
 HCAIL group photo at [IJCAI'24](https://ijcai24.org/) in August 2024!
-# <img src="./assets/img/cscw23_1.JPG" alt="HCAIL at the CSCW 2023 conference" width="100%" >
+<!--- <img src="./assets/img/cscw23_1.JPG" alt="HCAIL at the CSCW 2023 conference" width="100%" >
 # HCAIL group photo at [CSCW'23](https://cscw.acm.org/2023/) in October 2023!
+--->
 
 Welcome to the Human-Centered Artificial Intelligence Lab (HCAIL)!
 We are a research group

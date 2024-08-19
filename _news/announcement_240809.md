@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-10-14 13:00:00-0000
+date: 2024-08-09 17:00:00-0000
 inline: true
 ---
 
-Hyunmin, SeungYoung, Sungmin, Taewon, and Yunseo served as a student volunteer at
-<a href="https://cscw.acm.org/2023/">CSCW’23</a>
+Hyunmin and Yunseo served as a student volunteer at
+<a href="https://ijcai24.org/">IJCAI’24</a>
 successfully! :sparkles: :smile:

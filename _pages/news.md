@@ -10,6 +10,29 @@ horizontal: false
 
 <h2>2024</h2>
 <ul>
+
+
+<li>
+  <p>[<b>August 2024</b>] Our paper has been accepted to appear at
+  <a href="https://sites.google.com/view/aihci/">ASSETS'24</a>, St. John's, Newfoundland and Labrador, Canada (October 2024). :sparkles: :smile:
+</p>
+</li>
+<li>
+  <p>[<b>August 2024</b>] Hyunmin and Yunseo served as a student volunteer at
+  <a href="https://ijcai24.org/">IJCAI’24</a>
+  successfully! :sparkles: :smile:</p>
+</li>
+<li>
+  <p>[<b>August 2024</b>] Our paper was presented at <a href="https://ijcai24.org/">IJCAI 2024</a> in Seogwipo, Korea.</p>
+</li>
+<li>
+  <p>[<b>July 2024</b>] Hyunggu served as an co-organizer, and Hyunmin, Jiyoo, & Yunseo as a student volunteer at the
+  <a href="https://2024summer.sigchi.kr/">2024 SIGCHI Korea Local Chapter Summer Event</a>
+  successfully!</p>
+</li>
+<li>
+  <p>[<b>June 2024</b>] Welcome! Jiyoo Min joined HCAIL as a undergraduate research intern!</p>
+</li>
 <li>
   <p>[<b>Feb. 2024</b>] Congratulations! The team HCAIL organized by our lab members including Hyunmin, SeungYoung, Yunseo, & Hyunggu won
   the <a href="https://www.etnews.com/20240222000331">Excellent Prize</a> at the
@@ -144,7 +167,7 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
   <li><p>[<b>Oct. 2022</b>] Congratulations! Sungmin Na was selected as a
   <a href="https://sigchi.org/gary-marsden-travel-award-recipients/">Gary Marsden Travel Awards</a> recipient.</p>
   </li>
-    <p>[<b>Sep. 2022</b>] Our paper has been accepted for publication in the <a href="https://www.springer.com/journal/10209">
+  <li><p>[<b>Sep. 2022</b>] Our paper has been accepted for publication in the <a href="https://www.springer.com/journal/10209">
     Universal Access in the Information Society (UAIS)</a> journal.
     </p>
   </li>

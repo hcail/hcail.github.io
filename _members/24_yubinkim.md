@@ -2,7 +2,7 @@
 layout: page
 title: Yubin Kim
 title_s1: Undergraduate Research Intern
-title_s2: University of Seoul
+title_s2: Ewha Womans University
 description: cosmos2718 [at] ewhain.net
 img: assets/img/ybkim.png
 importance: 25
