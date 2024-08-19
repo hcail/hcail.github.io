@@ -5,8 +5,8 @@ title_s1: Research Intern
 title_s2: University of Washington
 description: sungminna97 [at] gmail.com
 img: assets/img/sna.png
-importance: 7
-category: current
+importance: 24
+category: alumni
 ---
 
 ### Short Bio

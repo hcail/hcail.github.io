@@ -24,7 +24,7 @@ category: current
 </li>
 </ul>
 
-For more information, visit Moon's [personal website](https://copel0317.github.io/copel0317/).
+For more information, visit Moon's [personal website](https://www.figma.com/proto/3bZ7f05favm66CCXNfej4u/Yunseo-Moon?node-id=0-1&t=SrepSZniZHH9Nn1W-1).
 
 <!-- _pages/publications.md -->
 <div class="publications">
