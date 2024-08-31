@@ -11,7 +11,15 @@ horizontal: false
 <h2>2024</h2>
 <ul>
 
-
+<li>
+  <p>[<b>Sep. 2024</b>] HCAIL has moved from the University of Seoul to Seoul National University. :sparkles: :smile:
+</p>
+</li>
+<li>
+  <p>[<b>Sep. 2024</b>] Hyunggu Jung joined the College of Nursing at Seoul
+  National University as an associate professor. :sparkles: :smile:
+</p>
+</li>
 <li>
   <p>[<b>Aug. 2024</b>] Our paper has been accepted to appear at
   <a href="https://sites.google.com/view/aihci/">ASSETS'24</a>, St. John's, Newfoundland and Labrador, Canada (October 2024). :sparkles: :smile:
