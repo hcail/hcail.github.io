@@ -2,18 +2,19 @@
 layout: page
 title: Hyunggu Jung
 title_s1: Director
-title_s2: University of Seoul
-description: hjung [at] uos.ac.kr
+title_s2: Seoul National University
+description: hyunggu [at] snu.ac.kr
 img: assets/img/profhjung.png
 importance: 1
 category: current
 ---
 
 ### Short Bio
-<p>Hyunggu Jung is an associate professor of <a href="https://www.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science and Engineering</a> and an associate professor
-of <a href="https://www.uos.ac.kr/engineering/depart/ai/welcome.do">Artificial Intelligence</a> at the <a href="https://www.uos.ac.kr/en/main.do">University of Seoul</a>
-    and directs <a href="http://hcail.github.io">HCAIL</a>.
-    He was an assistant professor of <a href="http://swcon.khu.ac.kr/">Software Convergence</a> at <a href="http://www.khu.ac.kr/eng">Kyung Hee University</a> from April 2018 to August 2019.
+<p>Hyunggu Jung is an associate professor in the <a href="https://nursing.snu.ac.kr/">College of Nursing</a> at <a href="https://en.snu.ac.kr/">Seoul National University</a> and directs <a href="http://hcail.github.io">HCAIL</a>.
+He was an associate professor of <a href="https://www.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science and Engineering</a> and an associate professor
+of <a href="https://www.uos.ac.kr/engineering/depart/ai/welcome.do">Artificial Intelligence</a> at the <a href="https://www.uos.ac.kr/en/main.do">University of Seoul</a> from September 2019 to August 2024.
+Prior to joining the University of Seoul,
+    he was an assistant professor of <a href="http://swcon.khu.ac.kr/">Software Convergence</a> at <a href="http://www.khu.ac.kr/eng">Kyung Hee University</a> from April 2018 to August 2019.
     He received his Ph.D. in <a href="http://www.bhi.washington.edu">Biomedical and Health Informatics</a> in 2017, under the supervision of Drs. <a href="http://faculty.washington.edu/pth">Peter Tarczy-Hornoch</a> and <a href="https://www.hcde.washington.edu/zachry">Mark Zachry</a>, at the <a href="http://www.uwmedicine.org">University of Washington School of Medicine</a>. He received his B.S. in <a href="https://cs.kaist.ac.kr">Computer Science</a> and a minor in Business Economics from <a href="http://www.kaist.edu/html/en/index.html">Korea Advanced Institute of Science and Technology (KAIST)</a> in 2008, and his M.Math. degree from the <a href="https://uwaterloo.ca">University of Waterloo</a> in 2010, under the supervision of <a href="https://cs.uwaterloo.ca/~rcohen/">Prof. Robin Cohen</a>, and his M.S. degree with a <a href="http://hci.stanford.edu">Human-Computer Interaction (HCI)</a> specialization from <a href="http://www.stanford.edu">Stanford University</a> in 2012.
     He is a recipient of the <a href="http://www.niied.go.kr/user/nd76648.do">Korean Government Scholarship</a> and <a href="http://mogamfoundation.or.kr">Mogam Science Scholarship</a>.</p>
 
@@ -31,11 +32,16 @@ of <a href="https://www.uos.ac.kr/engineering/depart/ai/welcome.do">Artificial I
 
 ### Employment History
 <ul>
-<li>Department Chair, Department of Computer Science and Engineering, University of Seoul, Seoul, Korea from Mar. 2021.
-</li><li>
-Associate Professor, Department of Artificial Intelligence, University of Seoul, Seoul, Korea from Sep. 2022.
-</li><li>
-Associate Professor, Department of Computer Science and Engineering, University of Seoul, Seoul, Korea from Sep. 2022.
+<li>
+Associate Professor, College of Nursing, Seoul National University, Seoul, Korea from Sep. 2024.
+</li>
+<li>Department Chair, Department of Computer Science and Engineering, University of Seoul, Seoul, Korea from Mar. 2021 to Feb 2023.
+</li>
+<li>
+Associate Professor, Department of Artificial Intelligence, University of Seoul, Seoul, Korea from Sep. 2022 to Aug. 2024.
+</li>
+<li>
+Associate Professor, Department of Computer Science and Engineering, University of Seoul, Seoul, Korea from Sep. 2022 to Aug. 2024.
 </li><li>
 Assistant Professor, Department of Artificial Intelligence, University of Seoul, Seoul, Korea from Aug. 2020 to Aug. 2022.
 </li><li>
