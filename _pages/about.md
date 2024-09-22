@@ -48,7 +48,7 @@ to support individuals with special needs.
 #### Interested in joining HCAIL as a MS or PhD student?
 We have an opening position for a fully-funded MS and PhD student starting Spring 2025.
 Visit \[[석사과정/박사과정/박사후연구연구원 모집공고](https://docs.google.com/document/d/1OXMISGCE5Yifgr8pWAJRN-UJlyPIok-kpUw9oDbG3vM/edit?usp=sharing)\].
-Send your resume to me so that we can discuss about how to join HCAIL a MS or PhD student.
+Send your resume to me so that we can discuss about how to join HCAIL an MS or PhD student.
 For Spring 2025, we aim to admit up to <font color="red"><b>2-3 new MS or PhD students</b></font>.
 
 HCAIL 연구실 자료 참고바랍니다:
