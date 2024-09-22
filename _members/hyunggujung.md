@@ -10,7 +10,7 @@ category: current
 ---
 
 ### Short Bio
-<p>Hyunggu Jung is an associate professor in the <a href="https://nursing.snu.ac.kr/">College of Nursing</a> at <a href="https://en.snu.ac.kr/">Seoul National University</a> and directs <a href="http://hcail.github.io">HCAIL</a>.
+<p>Hyunggu Jung is an associate professor in the <a href="https://nursing.snu.ac.kr/">College of Nursing</a> at <a href="https://en.snu.ac.kr/">Seoul National University</a> and directs <a href="http://hcail.snu.ac.kr">HCAIL</a>.
 He was an associate professor of <a href="https://www.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science and Engineering</a> and an associate professor
 of <a href="https://www.uos.ac.kr/engineering/depart/ai/welcome.do">Artificial Intelligence</a> at the <a href="https://www.uos.ac.kr/en/main.do">University of Seoul</a> from September 2019 to August 2024.
 Prior to joining the University of Seoul,
