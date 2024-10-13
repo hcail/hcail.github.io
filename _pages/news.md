@@ -33,6 +33,8 @@ horizontal: false
 <li>
   <p>[<b>Aug. 2024</b>] Our paper was presented at <a href="https://ijcai24.org/">IJCAI 2024</a> in Seogwipo, Korea.</p>
 </li>
+<li><p>[<b>Aug. 2024</b>] Started a research project on <i>Development of a large-scale multimodal data framework for supporting periodontal disease care through improving nutrition and microbiome environment</i> supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) as a co-investigator. :sparkles: :smile:</p>
+</li>
 <li>
   <p>[<b>July 2024</b>] Hyunggu served as an co-organizer, and Hyunmin, Jiyoo, & Yunseo as a student volunteer at the
   <a href="https://2024summer.sigchi.kr/">2024 SIGCHI Korea Local Chapter Summer Event</a>
