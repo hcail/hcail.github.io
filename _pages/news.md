@@ -12,6 +12,10 @@ horizontal: false
 <ul>
 
 <li>
+  <p>[<b>Nov. 2024</b>] Welcome! Jaebeom Son and Minji Park joined HCAIL as a undergraduate research intern!</p>
+</p>
+</li>
+<li>
   <p>[<b>Sep. 2024</b>] HCAIL has moved from the University of Seoul to Seoul National University. :sparkles: :smile:
 </p>
 </li>
