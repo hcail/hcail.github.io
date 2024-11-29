@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Jaebum Son
+title: Jaebeom Son
 title_s1: Undergraduate Research Intern
 title_s2: Sogang University
 description: thswoqja98 [at] sogang.ac.kr
-img: assets/img/json.png
+img: assets/img/json.jpg
 importance: 26
 category: current
 ---
 
 ### Short Bio
-<p>Jaebum Son is an undergraduate research intern at the <a href="http://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
+<p>Jaebeom Son is an undergraduate research intern at the <a href="http://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
 </p>
 
 ### Education
