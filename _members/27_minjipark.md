@@ -4,7 +4,7 @@ title: Minji Park
 title_s1: Undergraduate Research Intern
 title_s2: Sungkyunkwan University
 description: mj.park [at] g.skku.edu
-img: assets/img/mpark.jpg
+img: assets/img/mpark.png
 importance: 27
 category: current
 ---

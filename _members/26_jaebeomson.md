@@ -4,7 +4,7 @@ title: Jaebeom Son
 title_s1: Undergraduate Research Intern
 title_s2: Sogang University
 description: thswoqja98 [at] sogang.ac.kr
-img: assets/img/json.jpg
+img: assets/img/json.png
 importance: 26
 category: current
 ---
