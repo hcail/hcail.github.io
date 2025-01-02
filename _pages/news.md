@@ -10,7 +10,21 @@ horizontal: false
 
 <h2>2024</h2>
 <ul>
-
+<li>
+  <p>[<b>Jan. 2025</b>] Two papers have been accepted to appear at the <a href="https://conference.hcikorea.org/hcik2025/">
+   HCI Korea 2025
+ </a> Hongcheon, Gangwon-do (February 2025). :sparkles: :smile:
+ </p>
+</li>
+<li>
+  <p>[<b>Dec. 2024</b>] Welcome! Myeonghun Jeong and Duhyung Kwak joined HCAIL as a undergraduate
+  research intern, respectively!</p>
+</li>
+<li>
+  <p>[<b>Dec. 2024</b>] One paper has been accepted to appear at
+  <a href="https://sites.google.com/view/ai4research2024">AAAI'25 Workshop: Towards a Knowledge-grounded Scientific Research Lifecycle</a>, Philadelphia, PA, USA (March 2025). :sparkles: :smile:
+</p>
+</li>
 <li>
   <p>[<b>Nov. 2024</b>] Welcome! Jaebeom Son and Minji Park joined HCAIL as a undergraduate
   research intern, respectively!</p>

@@ -14,7 +14,9 @@ category: current
 
 ### Education
 <ul>
-<li>B.S. Computer Science, University of Seoul from 2019.
+<li>M.S. Computer Science, University of Seoul 2023-present.
+</li>
+<li>B.S. Computer Science, University of Seoul 2023.
 </li>
 </ul>
 
