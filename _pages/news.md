@@ -8,14 +8,26 @@ display_categories: [current, alumni]
 horizontal: false
 ---
 
-<h2>2024</h2>
+<h2>2025</h2>
 <ul>
+
+<li><p>[<b>Feb. 2025</b>] Our paper has been
+  accepted to appear at the <a href="https://iui.acm.org/2025/">
+     ACM Conference on Intelligent User Interfaces (IUI'25)
+    </a> in Cagliari, Italy (March 2025).</p>
+</li>
+
 <li>
   <p>[<b>Jan. 2025</b>] Two papers have been accepted to appear at the <a href="https://conference.hcikorea.org/hcik2025/">
    HCI Korea 2025
  </a> Hongcheon, Gangwon-do (February 2025). :sparkles: :smile:
  </p>
 </li>
+</ul>
+
+<h2>2024</h2>
+<ul>
+
 <li>
   <p>[<b>Dec. 2024</b>] Welcome! Myeonghun Jeong and Duhyung Kwak joined HCAIL as a undergraduate
   research intern, respectively!</p>
@@ -24,10 +36,6 @@ horizontal: false
   <p>[<b>Dec. 2024</b>] One paper has been accepted to appear at
   <a href="https://sites.google.com/view/ai4research2024">AAAI'25 Workshop: Towards a Knowledge-grounded Scientific Research Lifecycle</a>, Philadelphia, PA, USA (March 2025). :sparkles: :smile:
 </p>
-</li>
-<li>
-  <p>[<b>Nov. 2024</b>] Welcome! Jaebeom Son and Minji Park joined HCAIL as a undergraduate
-  research intern, respectively!</p>
 </li>
 <li>
   <p>[<b>Sep. 2024</b>] HCAIL has moved from the University of Seoul to Seoul National University. :sparkles: :smile:
