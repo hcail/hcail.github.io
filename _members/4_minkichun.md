@@ -14,9 +14,9 @@ category: alumni
 
 ### Education
 <ul>
-<li>Masters student in Computer Science, University of Seoul from 2020.
+<li>M.S. Computer Science, University of Seoul, 2023
 </li>
-<li>B.S. Information Communication Engineering, Dongguk University, 2020.
+<li>B.S. Information Communication Engineering, Dongguk University, 2020
 </li>
 </ul>
 

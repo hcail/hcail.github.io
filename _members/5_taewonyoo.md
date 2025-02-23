@@ -14,7 +14,7 @@ category: alumni
 
 ### Education
 <ul>
-<li>Undergraduate student in Software Convergence (Data Science Track), Kyung Hee University, from 2017.
+<li>B.S. in Software Convergence (Data Science Track), Kyung Hee University, from 2017-present
 </li>
 </ul>
 

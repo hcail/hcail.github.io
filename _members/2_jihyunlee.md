@@ -14,7 +14,7 @@ category: alumni
 
 ### Education
 <ul>
-<li>B.S. Software Convergence, Kyung Hee University, 2022.
+<li>B.S. Software Convergence, Kyung Hee University, 2022
 </li>
 </ul>
 

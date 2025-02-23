@@ -14,7 +14,7 @@ category: alumni
 
 ### Education
 <ul>
-<li>B.A. Psychology and Data Science, New York University 2019-Present.
+<li>B.A. Psychology and Data Science, New York University, 2019-present
 </li>
 </ul>
 

@@ -14,7 +14,7 @@ category: alumni
 
 ### Education
 <ul>
-<li>Pursuing a B.S. in Computer Science, University of Seoul 2022-Present.
+<li>Pursuing a B.S. in Computer Science, University of Seoul, 2022-present
 </li>
 </ul>
 

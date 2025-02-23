@@ -14,7 +14,7 @@ category: alumni
 
 ### Education
 <ul>
-<li>B.A. Cognitive Science, University of Southern California 2020-Present.
+<li>B.A. Cognitive Science, University of Southern California, 2020-present
 </li>
 </ul>
 

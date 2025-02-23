@@ -3,7 +3,7 @@ layout: page
 title: Jisu Son
 title_s1: M.S. Student
 title_s2: Seoul National University
-description: shj2747 [at] snu.ac.kr
+description: blanksoo15 [at] gmail.com
 img: assets/img/jsson.png
 importance: 32
 category: current
@@ -15,8 +15,8 @@ category: current
 
 ### Education
 <ul>
-<li>M.S. Nursing Informatics, Seoul National University 2025-Present.</li>
-<li>B.S. Nursing, Seoul National University 2015-2019.</li>
+<li>M.S. Nursing Informatics, Seoul National University, 2025-present</li>
+<li>B.S. Nursing, Seoul National University, 2015-2019</li>
 </ul>
 
 ### Employment History

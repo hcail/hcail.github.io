@@ -15,7 +15,7 @@ She expects to receive her B.S. in Physics from <a href="https://www.ewha.ac.kr/
 
 ### Education
 <ul>
-<li> B.S. Physics, Ewha Womans University 2020-present.
+<li> B.S. Physics, Ewha Womans University, 2020-present
 </li>
 </ul>
 

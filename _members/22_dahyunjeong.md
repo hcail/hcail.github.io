@@ -15,7 +15,7 @@ She expects to receive her B.S. in <a href="https://engineering.uos.ac.kr/engine
 
 ### Education
 <ul>
-<li> B.S. Computer Science, University of Seoul 2021-present.
+<li> B.S. Computer Science, University of Seoul, 2021-present
 </li>
 </ul>
 

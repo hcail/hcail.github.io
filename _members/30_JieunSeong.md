@@ -15,8 +15,8 @@ category: current
 
 ### Education
 <ul>
-<li>Ph.D. Nursing Informatics, Seoul National University 2025-Present.</li>
-<li>B.S. Nursing, Yonsei University 2017-2021.</li>
+<li>Ph.D. Nursing Informatics, Seoul National University, 2025-present</li>
+<li>B.S. Nursing, Yonsei University, 2017-2021</li>
 </ul>
 
 ### Employment History

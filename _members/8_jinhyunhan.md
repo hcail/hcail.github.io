@@ -15,11 +15,11 @@ category: current
 
 ### Education
 <ul>
-<li>Ph.D. Computer Science, University of Seoul 2021 - Present.
+<li>Ph.D. Computer Science, University of Seoul, 2021-present
 </li>
-<li>M.S. Underwater Acoustic Communication, Soongsil University, 2010.
+<li>M.S. Underwater Acoustic Communication, Soongsil University, 2010
 </li>
-<li>B.S. Information and Communication Engineering, Soongsil University, 2008.
+<li>B.S. Information and Communication Engineering, Soongsil University, 2008
 </li>
 </ul>
 

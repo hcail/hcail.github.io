@@ -14,7 +14,7 @@ category: alumni
 
 ### Education
 <ul>
-<li>B.A. Sociology, University of Washington, 2020.
+<li>B.A. Sociology, University of Washington, 2020
 </li>
 </ul>
 

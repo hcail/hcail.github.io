@@ -14,9 +14,9 @@ category: alumni
 
 ### Education
 <ul>
-<li>Masters student in Computer Science, University of Seoul from 2021.
+<li>M.S. Computer Science, University of Seoul, 2023
 </li>
-<li>B.S. Computer Science and Engineering, University of Seoul, 2021.
+<li>B.S. Computer Science and Engineering, University of Seoul, 2021
 </li>
 </ul>
 

@@ -14,7 +14,7 @@ category: alumni
 
 ### Education
 <ul>
-<li>Undergraduate student in Software Convergence, Kyung Hee University, from 2019.
+<li>B.S. Software Convergence, Kyung Hee University, 2024
 </li>
 </ul>
 

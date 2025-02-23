@@ -15,9 +15,9 @@ category: current
 
 ### Education
 <ul>
-<li>B.S. Nursing, Seoul National University 2024-present.
+<li>B.S. Nursing, Seoul National University 2024-present
 </li>
-<li>B.S. Energy Resources Engineering, Seoul National University 2023.
+<li>B.S. Energy Resources Engineering, Seoul National University, 2023
 </li>
 </ul>
 

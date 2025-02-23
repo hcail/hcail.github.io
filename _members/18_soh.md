@@ -14,7 +14,7 @@ category: alumni
 
 ### Education
 <ul>
-<li>Pursuing his B.S. and M.S. degrees in Computer Science, University of Seoul.
+<li>B.S. Computer Science, University of Seoul, 2024
 </li>
 </ul>
 

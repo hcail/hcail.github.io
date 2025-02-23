@@ -3,7 +3,7 @@ layout: page
 title: Yunseo Moon
 title_s1: Undergraduate Research Intern
 title_s2: University of Seoul
-description: copel0317 [at] uos.ac.kr
+description: copel0317 [at] gmail.com
 img: assets/img/ysmoon.png
 importance: 22
 category: current
@@ -14,7 +14,7 @@ category: current
 
 ### Education
 <ul>
-<li> B.S. Computer Science, University of Seoul 2020-present.
+<li> B.S. Computer Science, University of Seoul, 2020-present
 </li>
 </ul>
 
