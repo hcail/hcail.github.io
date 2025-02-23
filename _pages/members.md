@@ -2,7 +2,7 @@
 layout: page
 title: people
 permalink: /members/
-description: as of November 2024
+description: as of March 2025
 nav: true
 display_categories: [current, alumni]
 horizontal: false
