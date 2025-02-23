@@ -4,8 +4,8 @@ title: Jisu Son
 title_s1: M.S. Student
 title_s2: Seoul National University
 description: jieun3891 [at] snu.ac.kr
-img: assets/img/json.PNG
-importance: 30
+img: assets/img/jsson.png
+importance: 32
 category: current
 ---
 
