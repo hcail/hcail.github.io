@@ -15,7 +15,7 @@ category: current
 
 ### Education
 <ul>
-<li>B.S. Nursing, Seoul National University 2019-present.
+<li>B.S. Nursing, Seoul National University 2019-present
 </li>
 </ul>
 
