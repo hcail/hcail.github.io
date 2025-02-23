@@ -15,7 +15,7 @@ category: current
 
 ### Education
 <ul>
-<li>Ph.D. Nursing Informatics, Seoul National University, 2025-Present</li>
+<li>Ph.D. Nursing Informatics, Seoul National University, 2025-present</li>
 <li>B.S. Nursing, Gachon University, 2014-2018</li>
 </ul>
 
