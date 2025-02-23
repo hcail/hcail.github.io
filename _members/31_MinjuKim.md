@@ -21,7 +21,6 @@ category: current
 
 ### Employment History
 <ul>
-<li>Integrated Ph.D. Student, HCAIL, Seoul National University, Seoul, Korea from March 2025.</li>
 <li>Staff Registered Nurse, Seoul National University Bundang Hospital, Seongnam, Korea from 2018 to 2021.</li>
 </ul>
 

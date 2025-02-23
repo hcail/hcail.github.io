@@ -21,7 +21,6 @@ category: current
 
 ### Employment History
 <ul>
-<li>M.S. Student, HCAIL, Seoul National University, Seoul, Korea from March 2025.</li>
 <li>Hospital Information System Coordinator, Seoul National University Hospital, Seoul, Korea from 2024.</li>
 <li>Clinical Nurse, Seoul National University Hospital, Seoul, Korea from 2019 to 2024.</li>
 </ul>

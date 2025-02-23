@@ -21,7 +21,6 @@ category: current
 
 ### Employment History
 <ul>
-<li>Integrated Ph.D. Student, HCAIL, Seoul National University, Seoul, Korea from March 2025.</li>
 <li>Neonatal Intensive Care Unit Nurse, Severance Hospital, Seoul, Korea from 2021 to 2023.</li>
 </ul>
 
