@@ -3,7 +3,7 @@ layout: page
 title: Jisu Son
 title_s1: M.S. Student
 title_s2: Seoul National University
-description: jieun3891 [at] snu.ac.kr
+description: shj2747 [at] snu.ac.kr
 img: assets/img/jsson.png
 importance: 32
 category: current
