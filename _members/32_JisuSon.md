@@ -10,7 +10,7 @@ category: current
 ---
 
 ### Short Bio
-<p>Jieun Seong is an M.S. student at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
+<p>Jisu Son is an M.S. student at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
 </p>
 
 ### Education
