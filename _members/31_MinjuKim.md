@@ -4,7 +4,7 @@ title: Minju Kim
 title_s1: Integrated Ph.D. Student
 title_s2: Seoul National University
 description: lialos [at] snu.ac.kr
-img: assets/img/mkim.PNG
+img: assets/img/minkim.png
 importance: 31
 category: current
 ---
@@ -21,10 +21,12 @@ category: current
 
 ### Employment History
 <ul>
-<li>Staff Registered Nurse, Seoul National University Bundang Hospital, Seongnam, Korea from 2018 to 2021.</li>
+<li>Teaching Assistant, Gachon University, Seongnam, Korea from 2023 to 2024.</li>
+<li>Orthopedic Surgery PA Nurse, Yongin Severance Hospital, Yongin, Korea from 2022 to 2023.</li>
+<li>Operating Room Nurse, Seoul National University Bundang Hospital, Seongnam, Korea from 2018 to 2021.</li>
 </ul>
 
-<!-- For more information, visit Kim's [personal website](https://hcail.snu.ac.kr). -->
+For more information, visit Kim's [personal website](https://minju-kim1.github.io/CV/).
 
 <!-- _pages/publications.md -->
 <div class="publications">
