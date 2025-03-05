@@ -6,7 +6,7 @@ title_s2: Ewha Womans University
 description: cosmos2718 [at] ewhain.net
 img: assets/img/ybkim.png
 importance: 25
-category: current
+category: alumni
 ---
 
 ### Short Bio

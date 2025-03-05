@@ -5,7 +5,7 @@ title_s1: Integrated Ph.D. Student
 title_s2: Seoul National University
 description: lialos [at] snu.ac.kr
 img: assets/img/minkim.png
-importance: 31
+importance: 32
 category: current
 ---
 

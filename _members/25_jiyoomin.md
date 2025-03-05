@@ -6,7 +6,7 @@ title_s2: University of Seoul
 description: jiyum0618 [at] gmail.com
 img: assets/img/jmin.png
 importance: 25
-category: current
+category: alumni
 ---
 
 ### Short Bio

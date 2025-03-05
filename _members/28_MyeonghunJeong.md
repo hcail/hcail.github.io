@@ -6,7 +6,7 @@ title_s2: Seoul National University
 description: jmhoon8 [at] snu.ac.kr
 img: assets/img/mjeong.jpg
 importance: 28
-category: current
+category: alumni
 ---
 
 ### Short Bio

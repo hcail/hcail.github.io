@@ -5,7 +5,7 @@ title_s1: Integrated Ph.D. Student
 title_s2: Seoul National University
 description: jieun3891 [at] snu.ac.kr
 img: assets/img/jiseong.PNG
-importance: 30
+importance: 31
 category: current
 ---
 

@@ -5,7 +5,7 @@ title_s1: M.S. Student
 title_s2: Seoul National University
 description: blanksoo15 [at] gmail.com
 img: assets/img/jsson.png
-importance: 32
+importance: 33
 category: current
 ---
 
