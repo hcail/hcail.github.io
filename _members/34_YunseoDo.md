@@ -26,7 +26,7 @@ category: current
 <li>Research Intern, KIST Europe, Saarbrücken, Germany from Aug. 2024 to Jan. 2025.
 </ul>
 
-For more information, visit Do's [personal website](hhttps://simple-board-99d.notion.site/Hello-I-m-Yunseo-Do-bca71b3fd8c042938ffd6da7bb61f3e8?pvs=4).
+For more information, visit Do's [personal website](https://simple-board-99d.notion.site/Hello-I-m-Yunseo-Do-bca71b3fd8c042938ffd6da7bb61f3e8?pvs=4).
 <!-- _pages/publications.md -->
 <div class="publications">
 

@@ -29,7 +29,7 @@ category: current
 <li>Undergraduate Research Intern, HCAIL, Seoul, Korea from Jun. 2020 to May 2021.</li>
 </ul>
 
-For more information, visit Do's [personal website](https://jihyeonpark.super.site/).
+For more information, visit Park's [personal website](https://jihyeonpark.super.site/).
 <!-- _pages/publications.md -->
 <div class="publications">
 
