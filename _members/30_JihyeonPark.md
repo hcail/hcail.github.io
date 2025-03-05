@@ -3,7 +3,7 @@ layout: page
 title: Jihyeon Park
 title_s1: Research Intern
 title_s2: Cha University
-description: yjp883 [at] cornell.edu
+description: jp883 [at] cornell.edu
 img: assets/img/jpark.png
 importance: 30
 category: current
