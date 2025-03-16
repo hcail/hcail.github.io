@@ -11,16 +11,39 @@ horizontal: false
 <h2>2025</h2>
 <ul>
 
+<li><p>[<b>Mar. 2025</b>] Our paper has been
+  accepted to appear at
+  <a href="https://in2writing.glitch.me/">
+  NAACL 2025 Workshop:
+  In2Writing: The Fourth Workshop on Intelligent and Interactive
+  Writing Assistants
+    </a> in Albuquerque, NM, USA (May 2025). :sparkles: :smile:</p>
+</li>
+
+<li><p>[<b>Mar. 2025</b>] Our paper has been
+  accepted to appear at
+  <a href="https://medinfo2025.org/">
+     MedInfo 2025
+    </a> in Taipen, Taiwan (August 2025). :sparkles: :smile:</p>
+</li>
+
+<li><p>[<b>Mar. 2025</b>] Congratulations! Jiyoo and Hyunggu awarded Best Paper
+Award at
+<a href="https://sites.google.com/view/ai4research2024">
+     AAAI 2025 Workshop: Towards a Knowledge-grounded Scientific Research Lifecycle
+    </a> in Philadelphia, PA, USA (March 2025). :sparkles: :smile:</p>
+</li>
+
 <li><p>[<b>Feb. 2025</b>] Our paper has been
   accepted to appear at the <a href="https://iui.acm.org/2025/">
      ACM Conference on Intelligent User Interfaces (IUI'25)
-    </a> in Cagliari, Italy (March 2025).</p>
+    </a> in Cagliari, Italy (March 2025). :sparkles: :smile:</p>
 </li>
 
 <li>
   <p>[<b>Jan. 2025</b>] Two papers have been accepted to appear at the <a href="https://conference.hcikorea.org/hcik2025/">
    HCI Korea 2025
- </a> Hongcheon, Gangwon-do (February 2025). :sparkles: :smile:
+ </a>in Hongcheon, Gangwon-do (February 2025). :sparkles: :smile:
  </p>
 </li>
 </ul>

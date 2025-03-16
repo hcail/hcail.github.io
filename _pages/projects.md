@@ -65,11 +65,24 @@ horizontal: false
 <img src="/assets/img/da.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
 -->
 <td align="left">
+<b>Development of a Large-scale Multimodal Data Framework for Supporting
+Periodontal Disease Care Through Improving Nutrition and Microbiome Environment
+</b>
+<p>Co-investigator, National Research Foundation of Korea `한국연구재단 기초연구실`
+<br>
+Aug. 2024 - Present</p>
+</td>
+
+<table class="imgtable">
+<!-- <td>
+<img src="/assets/img/da.jpeg" alt="alt text" width="125px" height="125px" />&nbsp;</td>
+-->
+<td align="left">
 <b>Development of an AI-based Dietary Assessment System for Digital Therapeutics to Support Older Adults with Diabetes</b>
 <p>Principle Investigator, National Research Foundation of Korea `한국연구재단 생애첫연구`
 <br>
 Mar. 2020 - Feb. 2023</p>
-</td></tr></table>
+</td>
 
 <table class="imgtable">
 <tr>
