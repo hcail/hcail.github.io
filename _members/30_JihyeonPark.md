@@ -6,7 +6,7 @@ title_s2: Cha University
 description: jp883 [at] cornell.edu
 img: assets/img/jpark.png
 importance: 30
-category: current
+category: alumni
 ---
 
 ### Short Bio
@@ -23,7 +23,7 @@ category: current
 
 ### Employment History
 <ul>
-<li>Research Intern, HCAIL, Seoul, Korea from Mar. 2025.</li>
+<li>Research Intern, HCAIL, Seoul, Korea from Feb. 2025 to Mar. 2025.</li>
 <li>Undergraduate Research Intern, Microbiology Lab, Jeju, Korea from Sep. 2023 to Dec. 2023.</li>
 <li>Undergraduate Research Intern, Child Witness and Cognition Lab, Ithaca, NY, USA from Sep. 2020 to May 2022.</li>
 <li>Undergraduate Research Intern, HCAIL, Seoul, Korea from Jun. 2020 to May 2021.</li>
