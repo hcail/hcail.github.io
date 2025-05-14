@@ -21,6 +21,7 @@ category: current
 
 ### Employment History
 <ul>
+<li>Graduate Student Instructor, Seoul National University, Seoul, Korea from 2025.</li>
 <li>Neonatal Intensive Care Unit Nurse, Severance Hospital, Seoul, Korea from 2021 to 2023.</li>
 </ul>
 
