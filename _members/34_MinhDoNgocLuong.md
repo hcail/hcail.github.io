@@ -11,7 +11,7 @@ category: current
 
 ### Short Bio
 <p>Minh Do Ngoc Luong is a research intern at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
-She received her B.S. in <a href="https://cse.snu.ac.kr/">Computer Science and Engineering </a>at the <a href="https://www.snu.ac.kr/">Seoul National University</a>in 2025.</p>
+She received her B.S. in <a href="https://cse.snu.ac.kr/">Computer Science and Engineering </a>at the <a href="https://www.snu.ac.kr/">Seoul National University</a> in 2025.</p>
 
 ### Education
 <ul>
