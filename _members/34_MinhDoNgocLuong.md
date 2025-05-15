@@ -15,13 +15,12 @@ She received her B.S. in <a href="https://cse.snu.ac.kr/">Computer Science and E
 
 ### Education
 <ul>
-<li>Research Intern, Seoul National University, 2025-present</li>
 <li>B.S. Computer Science and Engineering, Seoul National University, 2019-2025</li>
 </ul>
 
 ### Employment History
 <ul>
-<li></li>
+<li>Research Intern, HCAIL, Seoul National University, Seoul, Korea from May 2025</li>
 </ul>
 
 For more information, visit Luong's [personal website](https://minhlgdo.com/).
