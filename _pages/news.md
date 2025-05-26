@@ -11,6 +11,11 @@ horizontal: false
 <h2>2025</h2>
 <ul>
 
+<li><p>[<b>May 2025</b>] We are pleased to welcome Minh Luong
+and Ohchul Kwon to HCAIL as a research intern and an undergraduate
+research intern, respectively. :sparkles: :smile:</p>
+</li>
+
 <li><p>[<b>Mar. 2025</b>] Our paper has been
   accepted to appear at
   <a href="https://in2writing.glitch.me/">
