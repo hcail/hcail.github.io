@@ -10,7 +10,10 @@ horizontal: false
 
 <h2>2025</h2>
 <ul>
-
+<li><p>[<b>June 2025</b>] Our paper has been accepted for publication in the <a href="https://www.springer.com/journal/10209">
+  Universal Access in the Information Society (UAIS)</a> journal.
+  </p>
+</li>
 <li><p>[<b>May 2025</b>] We are pleased to welcome Minh Luong
 and Ohchul Kwon to HCAIL as a research intern and an undergraduate
 research intern, respectively. :sparkles: :smile:</p>
@@ -490,7 +493,7 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
       Accessibility to Information for People with Visual Impairments
       </p>
    </i>
-  supported by the Seoul Metropolitan Government as a principle investigator.</p>
+  supported by the Seoul Metropolitan Government as a principle investigator.
   </li>
     <li><p>[<b>Mar. 2021</b>] Hyunggu Jung gave his talk at
       <a href="https://rins.snu.ac.kr/">Research Institute of Nursing Science</a>,
