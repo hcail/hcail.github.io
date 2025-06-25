@@ -21,6 +21,7 @@ category: current
 
 ### Employment History
 <ul>
+<li>Research Assistant, Seoul National University, Seoul, Korea from 2025.</li>
 <li>Teaching Assistant, Gachon University, Seongnam, Korea from 2023 to 2024.</li>
 <li>Orthopedic Surgery PA Nurse, Yongin Severance Hospital, Yongin, Korea from 2022 to 2023.</li>
 <li>Operating Room Nurse, Seoul National University Bundang Hospital, Seongnam, Korea from 2018 to 2021.</li>

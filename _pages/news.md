@@ -10,10 +10,30 @@ horizontal: false
 
 <h2>2025</h2>
 <ul>
+<li>
+  <p>[<b>June 2025</b>] Yunseo served
+  as a student volunteer co-chair at
+  <a href="https://2025summer.sigchi.kr/">SIGCHI Korea Local Chapter 2025 Summer Event</a>
+  successfully! :sparkles: :smile:</p>
+</li>
+
+<li>
+  <p>[<b>June 2025</b>] Duhyung, Jieun, Minju, Jisu, Minh, and Ohchul served
+  as a student volunteer at
+  <a href="https://2025summer.sigchi.kr/">SIGCHI Korea Local Chapter 2025 Summer Event</a>
+  successfully! :sparkles: :smile:</p>
+</li>
+
+<li><p>[<b>June 2025</b>] We are pleased to welcome Chaeyoung Lee to HCAIL
+as an undergraduate
+research intern. :sparkles: :smile:</p>
+</li>
+
 <li><p>[<b>June 2025</b>] Our paper has been accepted for publication in the <a href="https://www.springer.com/journal/10209">
   Universal Access in the Information Society (UAIS)</a> journal.
   </p>
 </li>
+
 <li><p>[<b>May 2025</b>] We are pleased to welcome Minh Luong
 and Ohchul Kwon to HCAIL as a research intern and an undergraduate
 research intern, respectively. :sparkles: :smile:</p>

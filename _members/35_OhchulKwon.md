@@ -15,13 +15,12 @@ He is pursuing his B.S. in <a href="https://ie.snu.ac.kr/">Industrial Engineerin
 
 ### Education
 <ul>
-<li>Undergraduate Research Intern, Seoul National University, 2025-present</li>
 <li>B.S. Industrial Engineering, Seoul National University, 2021-present</li>
 </ul>
 
 ### Employment History
 <ul>
-<li></li>
+<li>Undergraduate Research Intern, HCAIL, Seoul National University, Seoul, Korea from 2025.</li>
 </ul>
 
 For more information, visit Kwon's [personal website](https://dootheg0924.github.io/).

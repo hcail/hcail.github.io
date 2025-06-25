@@ -15,7 +15,7 @@ category: alumni
 
 ### Education
 <ul>
-<li>M.D. Candidate, Cha University School of Medicine Mar. 2023-Present.
+<li>M.D. Candidate, Cha University School of Medicine Mar. 2023-present.
 </li>
 <li>B.S. with Distinction, Human Ecology, Cornell University Aug. 2019 to May 2022.
 </li>
@@ -23,7 +23,7 @@ category: alumni
 
 ### Employment History
 <ul>
-<li>Research Intern, HCAIL, Seoul, Korea from Feb. 2025 to Mar. 2025.</li>
+<li>Research Intern, HCAIL, Seoul National University, Seoul, Korea from Feb. 2025 to Mar. 2025.</li>
 <li>Undergraduate Research Intern, Microbiology Lab, Jeju, Korea from Sep. 2023 to Dec. 2023.</li>
 <li>Undergraduate Research Intern, Child Witness and Cognition Lab, Ithaca, NY, USA from Sep. 2020 to May 2022.</li>
 <li>Undergraduate Research Intern, HCAIL, Seoul, Korea from Jun. 2020 to May 2021.</li>

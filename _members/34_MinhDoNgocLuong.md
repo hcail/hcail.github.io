@@ -20,7 +20,7 @@ She received her B.S. in <a href="https://cse.snu.ac.kr/">Computer Science and E
 
 ### Employment History
 <ul>
-<li></li>
+<li>Research Intern, HCAIL, Seoul National University, Seoul, Korea from 2025.</li>
 </ul>
 
 For more information, visit Luong's [personal website](https://minhlgdo.com/).
