@@ -11,16 +11,16 @@ horizontal: false
 <h2>2025</h2>
 <ul>
 <li>
-  <p>[<b>June 2025</b>] Yunseo served
-  as a student volunteer co-chair at
-  <a href="https://2025summer.sigchi.kr/">SIGCHI Korea Local Chapter 2025 Summer Event</a>
+  <p>[<b>June 2025</b>] Hyunggu served as an co-organizer, and Yunseo served
+  as a student volunteer co-chair at the
+  <a href="https://2025summer.sigchi.kr/">2025 SIGCHI Korea Local Chapter Summer Event</a>
   successfully! :sparkles: :smile:</p>
 </li>
 
 <li>
-  <p>[<b>June 2025</b>] Duhyung, Jieun, Minju, Jisu, Minh, and Ohchul served
-  as a student volunteer at
-  <a href="https://2025summer.sigchi.kr/">SIGCHI Korea Local Chapter 2025 Summer Event</a>
+  <p>[<b>June 2025</b>] Duhyung, Jieun, Minju, Minh, and Ohchul served
+  as a student volunteer at the
+  <a href="https://2025summer.sigchi.kr/">2025 SIGCHI Korea Local Chapter Summer Event</a>
   successfully! :sparkles: :smile:</p>
 </li>
 
