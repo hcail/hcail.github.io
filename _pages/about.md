@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <img src="./assets/img/hcail_kaist_250624.jpeg" alt="HCAIL at the SIGHI Korea Local Chapter 2025 Summer Event" width="100%" >
-HCAIL group photo at [SIGHI Korea Local Chapter 2025 Summer Event](https://2025summer.sigchi.kr/) in June 2025!
+HCAIL group photo at the [SIGHI Korea Local Chapter 2025 Summer Event](https://2025summer.sigchi.kr/) in June 2025!
 
 Welcome to the Human-Centered Artificial Intelligence Lab (HCAIL)!
 We are a research group
