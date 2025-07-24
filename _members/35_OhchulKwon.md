@@ -6,7 +6,7 @@ title_s2: Seoul National University
 description: dootheg0924 [at] snu.ac.kr
 img: assets/img/okwon.png
 importance: 35
-category: current
+category: alumni
 ---
 
 ### Short Bio
