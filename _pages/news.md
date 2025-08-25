@@ -411,13 +411,15 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
       </p>
   </li>
     <li>
-      <p>[<b>Jan. 2022</b>] Our paper has been accepted for publication in the <a href="https://www.springer.com/journal/10209">
+      <p>[<b>Jan. 2022</b>] Our paper has been accepted for publication
+      in the <a href="https://www.springer.com/journal/10209">
       Universal Access in the Information Society (UAIS)</a> journal.
-      </p></li>
-  </ul>
+      </p>
+    </li>
+</ul>
 
-  <h2>2021</h2>
-  <ul>
+<h2>2021</h2>
+<ul>
   <li>
     <p>[<b>Dec. 2021</b>] Our paper has been accepted to appear at the <a href="https://taih21.github.io/">
        AAAI 2022 Workshop: Trustworthy AI for Healthcare
@@ -562,15 +564,14 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
     <li><p>[<b>Jan. 2021</b>] Our paper has been accepted for publication
       in <a href="https://formative.jmir.org/">JMIR Formative Research.</a></p>
     </li>
-    <li><p>[<b>Jan. 2021</b>] Two papers were presented at
-      <a href="https://conference.hcikorea.org/hcik2021/">HCI Korea 2021</a> on Zoom.
-      </p>
+    <li>
+    <p>[<b>Jan. 2021</b>] Two papers were presented at
+      <a href="https://conference.hcikorea.org/hcik2021/">HCI Korea 2021</a> on Zoom.</p>
     </li>
-  </ul>
+</ul>
 
-
-  <h2>2020</h2>
-  <ul>
+<h2>2020</h2>
+<ul>
     <li><p>[<b>Dec. 2020</b>] Two papers have been accepted to appear
       at <a href="https://conference.hcikorea.org/hcik2021/">HCI Korea 2021</a> on Zoom.</p>
     </li>
