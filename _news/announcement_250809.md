@@ -5,4 +5,4 @@ inline: true
 ---
 
 Our paper has been published in <a href="https://medinfo2025.org/">
-MedInfo 2025</a>. :sparkles: :smile:</p>
+MedInfo 2025</a>. :sparkles: :smile:
