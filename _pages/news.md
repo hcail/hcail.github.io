@@ -11,6 +11,30 @@ horizontal: false
 <h2>2025</h2>
 <ul>
 <li>
+  <p>[<b>Aug. 2025</b>] Our paper has been published in
+  <a href="https://journals.sagepub.com/home/DHJ">Digital Health</a>. :sparkles: :smile:
+</p>
+</li>
+
+<li>
+  <p>[<b>Aug. 2025</b>] Our paper has been accepted to appear at
+  <a href="https://assets25.sigaccess.org/">ASSETS'25</a>, Denver, Colorado, USA (October 2025). :sparkles: :smile:
+</p>
+</li>
+
+<li>
+  <p>[<b>Aug. 2025</b>] Our two papers have been accepted to appear at
+  <a href="https://www.ieeeismar.net/2025/">ISMAR'25</a>, Daejeon, Republic of Korea (October 2025). :sparkles: :smile:
+</p>
+</li>
+
+<li>
+  <p>[<b>Aug. 2025</b>] Our two papers have been accepted to appear at
+  <a href="https://uist.acm.org/2025/">UIST'25</a>, Busan, Republic of Korea (September 2025). :sparkles: :smile:
+</p>
+</li>
+
+<li>
   <p>[<b>June 2025</b>] Hyunggu served as an co-organizer, and Yunseo served
   as a student volunteer co-chair at the
   <a href="https://2025summer.sigchi.kr/">SIGCHI Korea Local Chapter 2025 Summer Event</a>
@@ -539,7 +563,8 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
       in <a href="https://formative.jmir.org/">JMIR Formative Research.</a></p>
     </li>
     <li><p>[<b>Jan. 2021</b>] Two papers were presented at
-      <a href="https://conference.hcikorea.org/hcik2021/">HCI Korea 2021</a> on Zoom.</p>
+      <a href="https://conference.hcikorea.org/hcik2021/">HCI Korea 2021</a> on Zoom.</a>
+      </p>
     </li>
   </ul>
 
