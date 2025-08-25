@@ -563,7 +563,7 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
       in <a href="https://formative.jmir.org/">JMIR Formative Research.</a></p>
     </li>
     <li><p>[<b>Jan. 2021</b>] Two papers were presented at
-      <a href="https://conference.hcikorea.org/hcik2021/">HCI Korea 2021</a> on Zoom.</a>
+      <a href="https://conference.hcikorea.org/hcik2021/">HCI Korea 2021</a> on Zoom.
       </p>
     </li>
   </ul>
