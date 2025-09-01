@@ -6,7 +6,7 @@ title_s2: Seoul National University
 description: rvanpersie20 [at] snu.ac.kr
 img: assets/img/dkwak.png
 importance: 29
-category: current
+category: alumni
 ---
 
 ### Short Bio

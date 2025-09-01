@@ -6,7 +6,7 @@ title_s2: Seoul National University
 description: alexfamily28 [at] snu.ac.kr
 img: assets/img/hchoi.png
 importance: 37
-category: current
+category: alumni
 ---
 
 ### Short Bio
