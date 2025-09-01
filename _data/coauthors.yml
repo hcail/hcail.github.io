@@ -7,6 +7,16 @@
     url: https://sites.google.com/khu.ac.kr/2azy/
   - firstname: ["Gwanhee"]
     url: https://island-centaur-646.notion.site/GWANHEE-LEE-210f68ce4a6f48d1b1c2c75ceea85614
+  - firstname: ["Chaeyoung"]
+    url: https://its-chaeyounglee.github.io/
+
+"Chong":
+  - firstname: ["Seungjun"]
+    url: https://chong-portfolio.vercel.app/
+
+"Luong":
+  - firstname: ["Minh Do Ngoc"]
+    url: https://minhlgdo.com/
 
 "Oh":
   - firstname: ["SeungYoung"]
@@ -61,6 +71,12 @@
 "Kim":
   - firstname: ["Saeri"]
     url: https://www.linkedin.com/in/saerikim/
+  - firstname: ["Minju"]
+    url: https://minju-kim1.github.io/CV/
+
+"Kwak":
+  - firstname: ["Duhyung"]
+    url: https://duhyung.framer.website/
 
 "Cho":
   - firstname: ["Woohyun"]
@@ -70,9 +86,22 @@
   - firstname: ["Sehyeon"]
     url: https://sites.google.com/view/sehyeonhong/home
 
+"Moon":
+  - firstname: ["Yunseo"]
+    url: https://www.figma.com/proto/3bZ7f05favm66CCXNfej4u/Yunseo-Moon?node-id=0-1&t=SrepSZniZHH9Nn1W-1
+
+"Min":
+  - firstname: ["Jiyoo"]
+    url: https://jessythymejiyoo.github.io/
+
 "Jung":
   - firstname: ["Hyunggu"]
     url: http://hyunggujung.com/
+
+"Song":
+  - firstname: ["Hyungwoo"]
+    url: https://hyungwoosong.notion.site/
+
 
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
