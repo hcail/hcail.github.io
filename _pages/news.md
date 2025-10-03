@@ -10,6 +10,15 @@ horizontal: false
 
 <h2>2025</h2>
 <ul>
+<li><p>[<b>Oct. 2025</b>] Congratulations! Hyunggu awarded People's Choice Best
+Poster Award at
+<a href="https://uist.acm.org/2025/">UIST’25</a> in Busan, Republic of Korea. :sparkles: :smile:</p>
+</li>
+<li>
+  <p>[<b>Sep. 2025</b>] Yunseo served as a student volunteer at
+  <a href="https://uist.acm.org/2025/">UIST’25</a>
+  successfully! :sparkles: :smile:</p>
+</li>
 <li>
   <p>[<b>Aug. 2025</b>] Our paper has been published in
   <a href="https://journals.sagepub.com/home/DHJ">Digital Health</a>. :sparkles: :smile:
@@ -567,11 +576,11 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
     <li>
     <p>[<b>Jan. 2021</b>] Two papers were presented at
       <a href="https://conference.hcikorea.org/hcik2021/">HCI Korea 2021</a> on Zoom.</p>
-    </li>
-</ul>
+      </li>
+  </ul>
 
-<h2>2020</h2>
-<ul>
+  <h2>2020</h2>
+  <ul>
     <li><p>[<b>Dec. 2020</b>] Two papers have been accepted to appear
       at <a href="https://conference.hcikorea.org/hcik2021/">HCI Korea 2021</a> on Zoom.</p>
     </li>
