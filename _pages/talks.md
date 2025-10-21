@@ -9,7 +9,7 @@ nav: true
 <h4>HCAIL@ISMAR 2025</h4>
 <table id="TABLENAME">
   <tr class="r1">
-    <td class="c2"><img src="/assets/img/hcail-ismar25.jpg" width="100%" style="vertical-align: -4px"></td>
+    <td class="c2"><img src="/assets/img/hcail-ismar25.jpeg" width="100%" style="vertical-align: -4px"></td>
  </tr>
 </table>
 <br>
