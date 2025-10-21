@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<img src="./assets/img/hcail_kaist_250624.jpeg" alt="HCAIL at the SIGHI Korea Local Chapter 2025 Summer Event" width="100%" >
-HCAIL group photo at the [SIGHI Korea Local Chapter 2025 Summer Event](https://2025summer.sigchi.kr/) in June 2025!
+<img src="./assets/img/hcail_ismar_251011.jpg" alt="HCAIL at ISMAR 2025" width="100%" >
+HCAIL group photo at the [ISMAR 2025](https://www.ieeeismar.net/2025/) in October 2025!
 
 Welcome to the Human-Centered Artificial Intelligence Lab (HCAIL)!
 We are a research group
@@ -46,10 +46,10 @@ to support individuals with special needs.
 ---
 
 #### Interested in joining HCAIL as a MS or PhD student?
-We have an opening position for a fully-funded MS, MS/PhD and PhD student starting Spring 2026.
+We have an opening position for a fully-funded MS, MS/PhD and PhD student starting Spring 2027.
 Visit \[[석사과정/석박사통합과정/박사과정/박사후연구연구원 모집공고](https://docs.google.com/document/d/1OXMISGCE5Yifgr8pWAJRN-UJlyPIok-kpUw9oDbG3vM/edit?usp=sharing)\].
 Send your resume to me so that we can discuss about how to join HCAIL an MS, MS/PhD or PhD student.
-For Spring 2026, we aim to admit up to <font color="red"><b>2-3 new MS, MS/PhD or PhD students</b></font>.
+For Spring 2027, we aim to admit up to <font color="red"><b>2-3 new MS, MS/PhD or PhD students</b></font>.
 
 HCAIL 연구실 자료 참고바랍니다:
 \[[슬라이드](https://docs.google.com/presentation/d/1vuinUVRXeqiZbxZ5QbklL7ib1mCZ3iQRW-YWGlfa5IQ/edit?usp=sharing)\]
