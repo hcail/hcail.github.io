@@ -2,7 +2,7 @@
 layout: page
 title: people
 permalink: /members/
-description: as of March 2025
+description: as of November 2025
 nav: true
 display_categories: [current, alumni]
 horizontal: false
@@ -56,7 +56,9 @@ horizontal: false
 {%- endif -%}
 </div>
 
-<table style="width:100%">
+---
+
+<table border="0" style="width:100%">
 <tr>
   <td class="c2">Jiwon Chun</td>
   <td class="c2">Undergraduate Research Intern</td>
