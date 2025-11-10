@@ -20,7 +20,7 @@ He is pursuing his B.S. in <a href="https://ece.snu.ac.kr/">Electrical and Compu
 
 ### Employment History
 <ul>
-<li>Undergraduate Research Intern, HCAIL, Seoul National University, Seoul, Korea from 2025.</li>
+<li>Undergraduate Research Intern, HCAIL, Seoul National University, Seoul, Korea, 2025.</li>
 </ul>
 
 For more information, visit Choi's [personal website](https://hyunminchoi.my.canva.site/).

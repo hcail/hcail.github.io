@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seungjun Chong
-title_s1: Undergraduate Research Intern
+title_s1: Research Intern
 title_s2: University of Wisconsin–Madison
 description: jchong990315 [at] gmail.com
 img: assets/img/schong.png
@@ -10,12 +10,12 @@ category: current
 ---
 
 ### Short Bio
-<p>Seungjun Chong is a undergraduate research intern at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
-He is pursuing his B.S. in <a href="https://www.cs.wisc.edu/">Computer Science </a>at the <a href="https://www.wisc.edu/">University of Wisconsin - Madison</a>.</p>
+<p>Seungjun Chong is a research intern at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
+He obtained his B.S. in <a href="https://www.cs.wisc.edu/">Computer Science </a>at the <a href="https://www.wisc.edu/">University of Wisconsin - Madison</a>.</p>
 
 ### Education
 <ul>
-<li>B.S. Computer Science, University of Wisconsin–Madison, 2019-present</li>
+<li>B.S. Computer Science, University of Wisconsin–Madison, 2019-2025</li>
 </ul>
 
 ### Employment History
