@@ -6,6 +6,14 @@ description:
 nav: true
 ---
 
+<h4>HCAIL@OZCHI 2025</h4>
+<table id="TABLENAME">
+  <tr class="r1">
+    <td class="c2"><img src="/assets/img/ozchi25.jpg" width="100%" style="vertical-align: -4px"></td>
+ </tr>
+</table>
+<br>
+
 <h4>HCAIL@ISMAR 2025</h4>
 <table id="TABLENAME">
   <tr class="r1">

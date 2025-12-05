@@ -10,6 +10,11 @@ horizontal: false
 
 <h2>2025</h2>
 <ul>
+<li>
+  <p>[<b>Nov. 2025</b>] Yunseo served as a student volunteer at
+  <a href="https://www.ozchi.org/2025/">OzCHI’25</a>
+  successfully! :sparkles: :smile:</p>
+</li>
 <li><p>[<b>Oct. 2025</b>] Congratulations! Hyunggu awarded People's Choice Best
 Poster Award at
 <a href="https://uist.acm.org/2025/">UIST’25</a> in Busan, Republic of Korea. :sparkles: :smile:</p>
