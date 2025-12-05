@@ -5,8 +5,8 @@ title_s1: M.S. Student
 title_s2: University of Seoul
 description: yunoa64 [at] gmail.com
 img: assets/img/hmlee.png
-importance: 12
-category: current
+importance: 38
+category: alumni
 ---
 
 ### Short Bio
