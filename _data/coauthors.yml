@@ -1,4 +1,4 @@
-"Lee":
+gg"Lee":
   - firstname: ["Hyunmin"]
     url: https://yunoa64.github.io/
   - firstname: ["Wanhae"]
@@ -88,7 +88,7 @@
 
 "Moon":
   - firstname: ["Yunseo"]
-    url: https://www.figma.com/proto/3bZ7f05favm66CCXNfej4u/Yunseo-Moon?node-id=0-1&t=SrepSZniZHH9Nn1W-1
+    url: https://www.figma.com/proto/1LrhvrNToR2Tixf3Q54DDd/CV-homepage
 
 "Min":
   - firstname: ["Jiyoo"]
@@ -97,6 +97,10 @@
 "Jung":
   - firstname: ["Hyunggu"]
     url: http://hyunggujung.com/
+
+"Nam":
+  - firstname: ["Somang"]
+    url: https://somang.github.io/
 
 "Song":
   - firstname: ["Hyungwoo"]
