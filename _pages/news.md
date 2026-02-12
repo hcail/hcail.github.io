@@ -8,6 +8,25 @@ display_categories: [current, alumni]
 horizontal: false
 ---
 
+<h2>2026</h2>
+<ul>
+  <li>
+    <p>[<b>Jan. 2026</b>] Hyunggu served as a co-chair of the <a href="https://conference.hcikorea.org/hcik2026/programs/colloquium.asp">doctoral consortium</a> at HCI Korea 2026 successfully! :sparkles: :smile:</p>
+  </li>
+  <li>
+    <p>[<b>Jan. 2026</b>] Four papers were presented at <a href="https://conference.hcikorea.org/hcik2026/">HCI Korea 2026</a> in Hongcheon, Republic of Korea. :sparkles: :smile:</p>
+  </li>
+  <li>
+    <p>[<b>Jan. 2026</b>] Our two papers have been accepted to appear at <a href="https://eapcnet.eu/congress/2026/">EAPC 20th World Congress</a>, Prague, Czech Republic (May 2026).:sparkles: :smile:</p>
+  </li>
+  <li>
+    <p>[<b>Jan. 2026</b>] Our two papers have been accepted to appear at <a href="https://ieeevr.org/2026/">IEEE VR'26</a>, Daegu, Republic of Korea (March 2026). :sparkles: :smile:</p>
+  </li>
+  <li>
+    <p>[<b>Jan. 2026</b>] Our paper has been accepted to appear at <a href="https://chi2026.acm.org/">CHI'26</a>, Barcelona, Spain (April 2026). :sparkles: :smile:</p>
+  </li>
+</ul>
+
 <h2>2025</h2>
 <ul>
 <li>
@@ -488,7 +507,7 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
         to Measure Students' Level of Understanding
         during the Real-Time Online Lectures
    </i>
-  supported by the Korean Ministry of Education as a principle investigator.</p>
+  supported by the Korean Ministry of Education as a principal investigator.</p>
   </li>
     <li><p>[<b>Aug. 2021</b>] Welcome! GwanHee Lee joined HCAIL as a
       undergraduate research intern.</p>
@@ -551,15 +570,15 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
     <li><p>[<b>Apr. 2021</b>] Started a research project on the <i>Development of Technology for
       Quantifying Web Accessibility Based on Big Data to Improve
       Accessibility to Information for People with Visual Impairments
-      </p>
    </i>
-  supported by the Seoul Metropolitan Government as a principle investigator.
+  supported by the Seoul Metropolitan Government as a principal investigator.
+      </p>
   </li>
     <li><p>[<b>Mar. 2021</b>] Hyunggu Jung gave his talk at
       <a href="https://rins.snu.ac.kr/">Research Institute of Nursing Science</a>,
       Seoul National University, Seoul, Korea.</p></li>
       <li><p>[<b>Mar. 2021</b>] Welcome! Jeongjin Park joined HCAIL
-        as an undergradate research intern.</p>
+        as an undergraduate research intern.</p>
       </li>
       <li><p>[<b>Mar. 2021</b>] Welcome! JinHyun Han joined HCAIL as a Ph.D. student.</p>
       </li>
@@ -598,10 +617,10 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
     </li>
     <li><p>[<b>July 2020</b>] Hyunggu Jung has been invited to serve as a Program Committee member for IEEE AIVR 2020.</p>
     </li>
-    <li><p>[<b>July 2020</b>] Our paper has been accepted to appear at the 2020 Summer Conference of the Korea Multimedia Society (KMMS), Jeju, Koera, August 2020 in Jeju, Korea (Aug. 2020).</p>
+    <li><p>[<b>July 2020</b>] Our paper has been accepted to appear at the 2020 Summer Conference of the Korea Multimedia Society (KMMS), Jeju, Korea, August 2020 in Jeju, Korea (Aug. 2020).</p>
     </li>
     <li><p>[<b>May 2020</b>] Started a research project on the <i>Development of an AI-based Dietary Assessment System for Managing Chronic Diseases </i>
-  supported by the University of Seoul as a principle investigator.</p>
+  supported by the University of Seoul as a principal investigator.</p>
   </li>
   <li><p>[<b>Apr. 2020</b>] Congratulations! Jihyun Lee and Subin Park received
     <a href="https://asian-chi.github.io/2020/awards/">Best Presentation Awards</a>, respectively at the
@@ -610,7 +629,7 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
   <li><p>[<b>Mar. 2020</b>] Hyunggu Jung has been invited to serve as a Program Committee member for RecSys 2020.</p>
   </li>
         <li><p>[<b>Mar. 2020</b>] Started a research project on the <i>Development of an AI-based Dietary Assessment System for Digital Therapeutics to Support Older Adults with Diabetes </i>
-  supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) as a principle investigator.</p>
+  supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) as a principal investigator.</p>
   </li>
       <li><p>[<b>Feb. 2020</b>] Our five papers have been accepted to appear at the <a href="https://asian-chi.github.io/2020//">Asian CHI Symposium 2020</a> at CHI'20 in Honolulu, HI, USA (Apr. 2020).</p>
   </li>
@@ -669,7 +688,7 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
   <li><p>[<b>Nov. 2018</b>] Our paper was presented at the Roundtable presentation during the APHA's 2018 Annual Meeting &amp; Expo in San Diego. [<a href="https://apha.confex.com/apha/2018/meetingapp.cgi/Paper/413360">url</a>]</p>
   </li>
   <li><p>[<b>Sep. 2018</b>] Started a research project on the <b>Development of a Smartphone Application for Dietary Assessment </b>
-  funded by Kyung Hee University as a Principle Investigator</p>
+  funded by Kyung Hee University as a principal investigator</p>
   </li>
   <li><p>[<b>June 2018</b>] Started a research project on <b>AI Application Technology with MR-IoT Convergence to Countermeasure Disaster</b>
   funded by Institute for Information &amp; Communications Technology Promotion (IITP) as a Co-Investigator</p>
