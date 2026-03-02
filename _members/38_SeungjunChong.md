@@ -24,6 +24,8 @@ He obtained his B.S. in <a href="https://www.cs.wisc.edu/">Computer Science </a>
 
 ### Employment History
 <ul>
+<li>Research Assistant, Seoul National University, Seoul, Korea from March 2026-present.</li>
+<li>Teaching Assistant, Seoul National University, Seoul, Korea from March 2026-present.</li>
 <li>Research Intern, HCAIL, Seoul National University,
 Seoul, Korea from June 2025 to February 2026.</li>
 <li>Undergraduate Research Intern, WiNGS Lab, University of Wisconsin–Madison, WI, USA from 2024 to 2025.</li>

@@ -24,6 +24,7 @@ She received her B.S. in <a href="https://cse.snu.ac.kr/">Computer Science and E
 
 ### Employment History
 <ul>
+<li>Research Assistant, Seoul National University, Seoul, Korea from March 2026--present.</li>
 <li>Research Intern, HCAIL, Seoul National University, Seoul, Korea from 2025 to 2026.</li>
 </ul>
 
