@@ -10,7 +10,9 @@ category: current
 ---
 
 ### Short Bio
-<p>Minju Kim is an integrated Ph.D. student at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
+<p>Minju Kim is an integrated Ph.D. student of informatics in the
+<a href="https://nursing.snu.ac.kr/en">College of Nursing</a>
+at <a href="https://en.snu.ac.kr/">Seoul National University</a>.
 </p>
 
 ### Education

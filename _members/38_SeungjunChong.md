@@ -18,6 +18,7 @@ He obtained his B.S. in <a href="https://www.cs.wisc.edu/">Computer Science </a>
 
 ### Education
 <ul>
+<li>Ph.D. Nursing Informatics, Seoul National University, 2026-present</li>
 <li>B.S. Computer Science, University of Wisconsin–Madison, 2019-2025</li>
 </ul>
 

@@ -10,7 +10,7 @@ category: current
 ---
 
 ### Short Bio
-<p>Yunseo Moon is an integrated Ph.D. student of Informatics in the
+<p>Yunseo Moon is an integrated Ph.D. student of informatics in the
 <a href="https://nursing.snu.ac.kr/en">College of Nursing</a>
 at <a href="https://en.snu.ac.kr/">Seoul National University</a>.
 <p>Yunseo Moon was an undergraduate research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
@@ -18,8 +18,8 @@ He received his B.S. in <a href="https://engineering.uos.ac.kr/engineering/depar
 
 ### Education
 <ul>
-<li>B.S. Computer Science, University of Seoul, 2020-2026
-</li>
+<li>Ph.D. Nursing Informatics, Seoul National University, 2026-present</li>
+<li>B.S. Computer Science, University of Seoul, 2020-2026</li>
 </ul>
 
 ### Employment History

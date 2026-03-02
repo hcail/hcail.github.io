@@ -5,7 +5,7 @@ title_s1: Undergraduate Research Intern
 title_s2: Seoul National University
 description: leecy0130 [at] snu.ac.kr
 img: assets/img/clee.png
-importance: 36
+importance: 39
 category: alumni
 ---
 
@@ -15,7 +15,7 @@ She is pursuing her B.S. in <a href="https://nursing.snu.ac.kr/">Nursing </a>at 
 
 ### Education
 <ul>
-<li>B.S. Nursing, Seoul National University, 2019-present</li>
+<li>B.S. Nursing, Seoul National University, 2019-2026</li>
 </ul>
 
 ### Employment History

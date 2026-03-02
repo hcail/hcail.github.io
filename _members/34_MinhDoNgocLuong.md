@@ -18,6 +18,7 @@ She received her B.S. in <a href="https://cse.snu.ac.kr/">Computer Science and E
 
 ### Education
 <ul>
+<li>M.S. Nursing Informatics, Seoul National University, 2026-present</li>
 <li>B.S. Computer Science and Engineering, Seoul National University, 2019-2025</li>
 </ul>
 
