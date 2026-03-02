@@ -6,11 +6,11 @@ title_s2: Seoul National University
 description: leecy0130 [at] snu.ac.kr
 img: assets/img/clee.png
 importance: 36
-category: current
+category: alumni
 ---
 
 ### Short Bio
-<p>Chaeyoung Lee is a undergraduate research intern at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
+<p>Chaeyoung Lee was a undergraduate research intern at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
 She is pursuing her B.S. in <a href="https://nursing.snu.ac.kr/">Nursing </a>at the <a href="https://www.snu.ac.kr/">Seoul National University</a>.</p>
 
 ### Education

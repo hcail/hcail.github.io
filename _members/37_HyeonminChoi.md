@@ -10,7 +10,7 @@ category: alumni
 ---
 
 ### Short Bio
-<p>Hyeonmin Choi is an undergraduate research intern at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
+<p>Hyeonmin Choi was an undergraduate research intern at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
 He is pursuing his B.S. in <a href="https://ece.snu.ac.kr/">Electrical and Computer Engineering </a>at <a href="https://www.snu.ac.kr/">Seoul National University</a>.</p>
 
 ### Education

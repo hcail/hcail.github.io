@@ -10,7 +10,7 @@ category: alumni
 ---
 
 ### Short Bio
-<p>Duhyung Kwak is an undergraduate research intern at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
+<p>Duhyung Kwak was an undergraduate research intern at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
 He is pursuing his B.S. in <a href="https://nursing.snu.ac.kr/">Nursing </a>at the <a href="https://www.snu.ac.kr/">Seoul National University</a>.</p>
 </p>
 

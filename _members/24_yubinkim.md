@@ -10,7 +10,7 @@ category: alumni
 ---
 
 ### Short Bio
-<p>Yubin Kim is an undergraduate research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
+<p>Yubin Kim was an undergraduate research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
 She expects to receive her B.S. in Physics from <a href="https://www.ewha.ac.kr/">Ewha Womans University.</a></p>
 
 ### Education
