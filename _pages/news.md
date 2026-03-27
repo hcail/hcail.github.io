@@ -10,6 +10,14 @@ horizontal: false
 
 <h2>2026</h2>
 <ul>
+<li>
+  <p>[<b>Mar. 2026</b>] Yunseo served as a student volunteer at
+  <a href="https://ieeevr.org/2026/">IEEE VR’26</a>
+  successfully! :sparkles: :smile:</p>
+</li>
+<li>
+  <p>[<b>Mar. 2026</b>] Two papers were presented at <a href="https://ieeevr.org/2026/program/demos/">IEEE VR 2026</a> in Daegu, Republic of Korea. :sparkles: :smile:</p>
+</li>
   <li>
     <p>[<b>Jan. 2026</b>] Hyunggu served as a co-chair of the <a href="https://conference.hcikorea.org/hcik2026/programs/colloquium.asp">doctoral consortium</a>
     at <a href="https://conference.hcikorea.org/hcik2026/">HCI Korea 2026</a> successfully! :sparkles: :smile:</p>
