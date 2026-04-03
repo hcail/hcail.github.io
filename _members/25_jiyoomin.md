@@ -5,7 +5,7 @@ title_s1: Undergraduate Research Intern
 title_s2: University of Seoul
 description: jiyum0618 [at] gmail.com
 img: assets/img/jmin.png
-importance: 25
+importance: 27
 category: alumni
 ---
 

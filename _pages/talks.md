@@ -6,6 +6,14 @@ description:
 nav: true
 ---
 
+<h4>HCAIL@IEEE VR 2026</h4>
+<table id="TABLENAME">
+  <tr class="r1">
+    <td class="c2"><img src="/assets/img/vr_260323.jpeg" width="100%" style="vertical-align: -4px"></td>
+ </tr>
+</table>
+<br>
+
 <h4>HCAIL@HCI Korea 2026</h4>
 <table id="TABLENAME">
   <tr class="r1">

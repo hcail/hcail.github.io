@@ -5,7 +5,7 @@ title_s1: Undergraduate Research Intern
 title_s2: Kyung Hee University
 description: twyoo [at] khu.ac.kr
 img: assets/img/tyoo.png
-importance: 26
+importance: 25
 category: alumni
 ---
 
