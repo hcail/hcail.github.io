@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<img src="./assets/img/hcail_ismar_251011.jpg" alt="HCAIL at ISMAR 2025" width="100%" >
+<img src="./assets/img/hcail_vr_260323.jpeg" alt="HCAIL at ISMAR 2025" width="100%" >
 HCAIL group photo at the [ISMAR 2025](https://www.ieeeismar.net/2025/) in October 2025!
 
 Welcome to the Human-Centered Artificial Intelligence Lab (HCAIL)!
