@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<img src="./assets/img/hcail_vr_260323.jpeg" alt="HCAIL at ISMAR 2025" width="100%" >
-HCAIL group photo at the [ISMAR 2025](https://www.ieeeismar.net/2025/) in October 2025!
+<img src="./assets/img/hcail_vr_260323.jpeg" alt="HCAIL at IEEE VR 2026" width="80%" >
+HCAIL group photo at the [IEEE VR 2026](https://ieeevr.org/2026/) in March 2026!
 
 Welcome to the Human-Centered Artificial Intelligence Lab (HCAIL)!
 We are a research group
