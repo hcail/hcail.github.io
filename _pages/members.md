@@ -58,6 +58,11 @@ horizontal: false
 
 ---
 <ul>
+  <li><strong>Chaeyoung Lee</strong>: Undergraduate Research Intern; Seoul National University (Summer 2025 - Winter 2025)</li>
+  <li><strong>Hyeonmin Choi</strong>: Undergraduate Research Intern; Seoul National University (Summer 2025)</li>
+  <li><strong>Ohchul Kwon</strong>: Undergraduate Research Intern; Seoul National University (Summer 2025)</li>
+  <li><strong>Duhyung Kwak</strong>: Undergraduate Research Intern; Seoul National University (Winter 2024 - Summer 2025)</li>
+  <li><strong>Myeonghun Jeong</strong>: Undergraduate Research Intern; Seoul National University (Winter 2024 - Winter 2024)</li>
   <li><strong>Jiwon Chun</strong>: Undergraduate Research Intern; Sookmyung Women's University (Winter 2021 - Spring 2022)</li>
   <li><strong>Sehyeon Hong</strong>: Undergraduate Research Intern; Kyungpook National University (Summer 2021 - Winter 2022)</li>
   <li><strong>Gwanhee Lee</strong>: Undergraduate Research Intern; Amazon Web Services (Winter 2021 - Winter 2022)</li>
@@ -78,119 +83,3 @@ horizontal: false
   <li><strong>Yiji Bae</strong>: Undergraduate Research Intern; Kyung Hee University (Fall 2018 - Spring 2019)</li>
   <li><strong>Hyeonjin Jeon</strong>: Undergraduate Research Intern; Kyung Hee University (Fall 2018 - Winter 2018)</li>
 </ul>
-<table border="0" style="width:100%">
-<tr>
-  <td class="c2">Jiwon Chun</td>
-  <td class="c2">Undergraduate Research Intern</td>
-  <td class="c2">Sookmyung Women's University</td>
-  <td class="c2">Winter 2021 - Spring 2022</td>
-</tr>
-<tr>
-  <td class="c2">Sehyeon Hong</td>
-  <td class="c2">Undergraduate Research Intern</td>
-  <td class="c2">Kyungpook National University</td>
-  <td class="c2">Summer 2021 - Winter 2022</td>
-</tr>
-<tr>
-  <td class="c2">Gwanhee Lee</td>
-  <td class="c2">Undergraduate Research Intern</td>
-  <td class="c2">Amazon Web Services</td>
-  <td class="c2">Winter 2021 - Winter 2022</td>
-</tr>
-<tr>
-  <td class="c2">Woohyun Cho</td>
-  <td class="c2">Undergraduate Research Intern</td>
-  <td class="c2">University of Michigan</td>
-  <td class="c2">Summer 2021</td>
-</tr>
-  <tr>
-    <td class="c2">Joonyoung Jun</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">University of Washington</td>
-    <td class="c2">Spring 2020 - Fall 2021</td>
-  </tr>
-  <tr>
-    <td class="c2">Jeongjin Park</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">Purdue University</td>
-    <td class="c2">Spring 2021 - Spring 2021</td>
-  </tr>
-  <tr>
-    <td class="c2">Hyuk Gi Lee</td>
-    <td class="c2">Research Intern</td>
-    <td class="c2">University of Washington</td>
-    <td class="c2">Summer 2020 - Spring 2021</td>
-  </tr>
-  <tr>
-    <td class="c2">Jihyeon Park</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">Cornell University</td>
-    <td class="c2">Summer 2020 - Spring 2021</td>
-  </tr>
-  <tr>
-    <td class="c2">Haeul Lee</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">University of Seoul</td>
-    <td class="c2">Fall 2020 - Winter 2020</td>
-  </tr>
-  <tr>
-    <td class="c2">Changgeon Lim</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">University of Seoul</td>
-    <td class="c2">Fall 2020 - Winter 2020</td>
-  </tr>
-  <tr>
-    <td class="c2">Wanhae Lee</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">Kakao Corp.</td>
-    <td class="c2">Fall 2019 - Winter 2020</td>
-  </tr>
-  <tr>
-    <td class="c2">Suin Gwak</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">University of Seoul</td>
-    <td class="c2">Fall 2019 - Winter 2020</td>
-  </tr>
-  <tr>
-    <td class="c2">Jaewon Choi</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">University of Washington</td>
-    <td class="c2">Summer 2020 - Fall 2020</td>
-  </tr>
-  <tr>
-    <td class="c2">Minji Kwon</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">Kyung Hee University</td>
-    <td class="c2">Fall 2019 - Spring 2020</td>
-  </tr>
-  <tr>
-    <td class="c2">Yewon Hyun</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">POSTECH</td>
-    <td class="c2">Fall 2019 - Winter 2019</td>
-  </tr>
-  <tr>
-    <td class="c2">Heejae Jung</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">Kyung Hee University</td>
-    <td class="c2">Fall 2018 - Summer 2019</td>
-  </tr>
-  <tr>
-    <td class="c2">Minyeong Seo</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">Kyung Hee University</td>
-    <td class="c2">Spring 2019 - Summer 2019</td>
-  </tr>
-  <tr>
-    <td class="c2">Yiji Bae</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">Kyung Hee University</td>
-    <td class="c2">Fall 2018 - Spring 2019</td>
-  </tr>
-  <tr>
-    <td class="c2">Hyeonjin Jeon</td>
-    <td class="c2">Undergraduate Research Intern</td>
-    <td class="c2">Kyung Hee University</td>
-    <td class="c2">Fall 2018 - Winter 2018</td>
-  </tr>
-</table>
