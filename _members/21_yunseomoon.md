@@ -3,7 +3,7 @@ layout: page
 title: Yunseo Moon
 title_s1: Integrated Ph.D. Student
 title_s2: Seoul National University
-description: copel0317 [at] gmail.com
+description: ysmoon [at] snu.ac.kr
 img: assets/img/ysmoon.png
 importance: 22
 category: current
@@ -31,7 +31,7 @@ Korea from January 2023 to February 2026.
 </li>
 </ul>
 
-For more information, visit Moon's [personal website](https://www.figma.com/proto/3bZ7f05favm66CCXNfej4u/Yunseo-Moon?node-id=0-1&t=SrepSZniZHH9Nn1W-1).
+For more information, visit Moon's [personal website](https://www.figma.com/proto/1LrhvrNToR2Tixf3Q54DDd/CV-homepage).
 
 <!-- _pages/publications.md -->
 <div class="publications">
