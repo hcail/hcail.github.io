@@ -14,7 +14,7 @@ category: current
 
 ### Education
 <ul>
-<li>M.S. Human-Computer Interaction, Indiana University – Purdue University Indianapolis</li>
+<li>Ph.D. Human-Computer Interaction, Indiana University – Purdue University Indianapolis</li>
 <li>M.S. Computer Science, ESIEE Paris</li>
 <li>B.S. Mathematics and Computer Science, Université Paris-Est Marne-La-Vallée</li>
 </ul>
