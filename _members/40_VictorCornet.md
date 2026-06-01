@@ -22,7 +22,7 @@ category: current
 ### Employment History
 <ul>
 <li>Postdoctoral Researcher, HCAIL, Seoul National University,
-Seoul, Korea from June 2026 to present.</li>
+Seoul, Korea from June 2026 to present</li>
 </ul>
 
 For more information, visit Cornet's [personal website](https://victorcornet.com/).
