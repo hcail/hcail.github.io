@@ -33,6 +33,12 @@ Prior to joining the University of Seoul,
 ### Employment History
 <ul>
 <li>
+Adjunct Associate Professor, Graduate School of Data Science, Seoul National University, Seoul, Korea from Oct. 2025.
+</li>
+<li>
+Adjunct Associate Professor, Healthcare AI Institute, Seoul National University Hospital, Seoul, Korea from June 2025.
+</li>
+<li>
 Associate Professor, College of Nursing, Seoul National University, Seoul, Korea from Sep. 2024.
 </li>
 <li>Department Chair, Department of Computer Science and Engineering, University of Seoul, Seoul, Korea from Mar. 2021 to Feb 2023.
