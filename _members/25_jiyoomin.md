@@ -15,7 +15,7 @@ category: alumni
 
 ### Education
 <ul>
-<li>B.S. Computer Science, University of Seoul 2023-Present.
+<li>B.S. Computer Science, University of Seoul 2023-present
 </li>
 </ul>
 

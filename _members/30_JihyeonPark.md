@@ -15,7 +15,7 @@ category: alumni
 
 ### Education
 <ul>
-<li>M.D. Candidate, Cha University School of Medicine Mar. 2023-present.
+<li>M.D. Candidate, Cha University School of Medicine Mar. 2023-present
 </li>
 <li>B.S. with Distinction, Human Ecology, Cornell University Aug. 2019 to May 2022.
 </li>

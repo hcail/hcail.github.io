@@ -24,8 +24,8 @@ He received his B.S. in <a href="https://engineering.uos.ac.kr/engineering/depar
 
 ### Employment History
 <ul>
-<li>Research Assistant, Seoul National University, Seoul, Korea from March 2026-present.</li>
-<li>Teaching Assistant, Seoul National University, Seoul, Korea from March 2026-present.</li>
+<li>Research Assistant, Seoul National University, Seoul, Korea from March 2026-present</li>
+<li>Teaching Assistant, Seoul National University, Seoul, Korea from March 2026-present</li>
 <li>Undergraduate Research Intern, HCAIL, University of Seoul, Seoul,
 Korea from January 2023 to February 2026.
 </li>

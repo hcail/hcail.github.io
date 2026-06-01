@@ -10,7 +10,7 @@ category: current
 ---
 
 ### Short Bio
-<p>Victor is a postdoctoral researcher at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
+<p>Victor is a postdoctoral researcher at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.</p>
 
 ### Education
 <ul>

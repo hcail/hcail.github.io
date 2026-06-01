@@ -22,7 +22,7 @@ He obtained his B.S. and M.S. in <a href="https://ie.kumoh.ac.kr/ie">Industrial 
 ### Employment History
 <ul>
 <li>Research Intern, HCAIL, Seoul National University,
-Seoul, Korea from May 2026 to present.</li>
+Seoul, Korea from May 2026 to present</li>
 </ul>
 
 For more information, visit Kim's [personal website](https://beomsu-k.github.io/).
