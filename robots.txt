@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hcail.github.io/sitemap.xml
+Sitemap: https://hcail.snu.ac.kr/sitemap.xml
