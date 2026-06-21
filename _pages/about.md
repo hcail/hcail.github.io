@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<img src="./assets/img/hcail_hoam_260615.jpeg" alt="HCAIL at SNU Hoam Faculty House" width="100%" >
+<img src="./assets/img/hcail_snu_hoam_260615.jpeg" alt="HCAIL at SNU Hoam Faculty House" width="100%" >
 HCAIL group photo at the [SNU Hoam Faculty House](https://snuhoam.co.kr/) in June 2026!
 
 Welcome to the Human-Centered Artificial Intelligence Lab (HCAIL)!
