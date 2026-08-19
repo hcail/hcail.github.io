@@ -11,6 +11,9 @@ horizontal: false
 <h2>2026</h2>
 <ul>
 <li>
+    <p>[<b>June 2026</b>] Our paper has been accepted to appear at <a href="https://assets26.sigaccess.org/">ASSETS'26</a>, Porto, Portugal (October 2026). :sparkles: :smile:</p>
+</li>
+<li>
   <p>[<b>Mar. 2026</b>] Yunseo served as a student volunteer at
   <a href="https://ieeevr.org/2026/">IEEE VR’26</a>
   successfully! :sparkles: :smile:</p>
