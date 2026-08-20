@@ -3,14 +3,14 @@ layout: page
 title: Victor P. Cornet
 title_s1: Postdoctoral Researcher
 title_s2: Seoul National University
-description: cornet.victor [at] gmail.com
+description: victor.cornet [at] @snu.ac.kr
 img: assets/img/vcornet.png
 importance: 40
 category: current
 ---
 
 ### Short Bio
-<p>Victor is a postdoctoral researcher at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.</p>
+<p>Victor is a postdoctoral researcher at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a>.</p>
 
 ### Education
 <ul>
