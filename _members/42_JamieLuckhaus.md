@@ -16,7 +16,7 @@ and a PhD candidate at Uppsala University, Sweden in the Participatory eHealth a
 
 ### Education
 <ul>
-<li>MSPH, Lund University, Sweden, from 2027 to 2019</li>
+<li>MSPH, Lund University, Sweden, from 2017 to 2019</li>
 <li>B.A., University of North Carolina at Greensboro, USA, from 2012 to 2016</li>
 <li>Emergency Medical Technician, GTCC, USA, from 2016 to 2017</li>
 </ul>
