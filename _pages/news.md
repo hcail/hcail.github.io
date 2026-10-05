@@ -14,7 +14,6 @@ horizontal: false
 as a visiting researcher. :sparkles: :smile:</p>
 </li>
 <li>
-<li>
   <p>[<b>Aug. 2026</b>] Hyunggu's article, "<a href="https://www.tta.or.kr/ebook?fileUrl=%2FttaJnal%2F20260908162946540_zsew.pdf&initialPage=35&type=withCover">Agentic Accessibility: The Evolution of Alternative Text Automation and Standardization Challenges</a>" (in Korean), has been published in the special report section of <a href="https://www.tta.or.kr/tta/publicationHosuView?rep=1&hosuBbsId=1&key=15&nttNo=183">TTA Journal</a> (Vol. 226). :sparkles: :smile:</p>
 </li>
 <li>
