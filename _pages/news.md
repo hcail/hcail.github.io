@@ -10,8 +10,18 @@ horizontal: false
 
 <h2>2026</h2>
 <ul>
+<li><p>[<b>Sep. 2026</b>] We are pleased to welcome Jamie Luckhaus Lee to HCAIL
+as a visiting researcher. :sparkles: :smile:</p>
+</li>
+<li>
+<li>
+  <p>[<b>Aug. 2026</b>] Hyunggu's article, "<a href="https://www.tta.or.kr/ebook?fileUrl=%2FttaJnal%2F20260908162946540_zsew.pdf&initialPage=35&type=withCover">Agentic Accessibility: The Evolution of Alternative Text Automation and Standardization Challenges</a>" (in Korean), has been published in the special report section of <a href="https://www.tta.or.kr/tta/publicationHosuView?rep=1&hosuBbsId=1&key=15&nttNo=183">TTA Journal</a> (Vol. 226). :sparkles: :smile:</p>
+</li>
 <li>
     <p>[<b>June 2026</b>] Our paper has been accepted to appear at <a href="https://assets26.sigaccess.org/">ASSETS'26</a>, Porto, Portugal (October 2026). :sparkles: :smile:</p>
+</li>
+<li>
+  <p>[<b>May 2026</b>] Our paper was presented at <a href="https://amia.org/education-events/2026-amplify-informatics-conference">AMIA 2026 Amplify Informatics Conference</a> in Denver, Colorado, USA (May 2026) :sparkles: :smile:</p>
 </li>
 <li>
   <p>[<b>Mar. 2026</b>] Yunseo served as a student volunteer at
