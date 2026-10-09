@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JinHyun Han
-title_s1: Ph.D. Student
+title_s1: Ph.D. Candidate
 title_s2: University of Seoul
 description: hanj617 [at] hanmail.net
 img: assets/img/jhan.jpeg
