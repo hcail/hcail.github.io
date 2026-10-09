@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seungjun Chong
-title_s1: Integrated Ph.D. Student
+title_s1: Ph.D. Student
 title_s2: Seoul National University
 description: jchong990315 [at] snu.ac.kr
 img: assets/img/schong.png
