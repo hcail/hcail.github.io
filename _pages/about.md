@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Human-Centered AI · Digital Health · HCI · Accessibility
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <img src="./assets/img/hcail_snu_hoam_260615.jpeg" alt="HCAIL at SNU Hoam Faculty House" width="100%" >
-HCAIL group photo at the [SNU Hoam Faculty House](https://snuhoam.co.kr/) in June 2026!
+HCAIL group photo at the [SNU Hoam Faculty House](https://snuhoam.co.kr/), June 2026.
 
 Welcome to the Human-Centered Artificial Intelligence Lab (HCAIL)!
 We are a research group
@@ -45,11 +45,10 @@ to support individuals with special needs.
 
 ---
 
-#### Interested in joining HCAIL as a MS or PhD student?
-We have an opening position for a fully-funded MS, MS/PhD and PhD student starting Spring 2027.
+#### Prospective Graduate Students (MS / MS-PhD / PhD)
+We are actively recruiting graduate students.
 Visit \[[석사과정/석박사통합과정/박사과정/박사후연구연구원 모집공고](https://docs.google.com/document/d/1OXMISGCE5Yifgr8pWAJRN-UJlyPIok-kpUw9oDbG3vM/edit?usp=sharing)\].
-Send your resume to me so that we can discuss about how to join HCAIL an MS, MS/PhD or PhD student.
-For Spring 2027, we aim to admit up to <font color="red"><b>2-3 new MS, MS/PhD or PhD students</b></font>.
+Send your resume to me so that we can discuss about how to join HCAIL.
 
 HCAIL 연구실 자료 참고바랍니다:
 \[[슬라이드](https://docs.google.com/presentation/d/1vuinUVRXeqiZbxZ5QbklL7ib1mCZ3iQRW-YWGlfa5IQ/edit?usp=sharing)\]
@@ -57,8 +56,16 @@ HCAIL 연구실 자료 참고바랍니다:
 
 ---
 
-#### Interested in a research opportunity for undergraduate students?
-Visit \[[학부연구생 인턴 모집공고](https://docs.google.com/document/d/1OXMISGCE5Yifgr8pWAJRN-UJlyPIok-kpUw9oDbG3vM/edit?usp=sharing)\]  and send your resume to me if you are interested in a unique <font color="red"><b>research intern</b></font> opportunity.
-HCAIL is ready for maximizing your research potential during your internship.
+#### Postdoctoral Researchers, Sotware Engineers & Research Interns
+We have openings for postdoctoral researchers, software engineers and research interns.
+Visit \[[석사과정/석박사통합과정/박사과정/박사후연구연구원 모집공고](https://docs.google.com/document/d/1OXMISGCE5Yifgr8pWAJRN-UJlyPIok-kpUw9oDbG3vM/edit?usp=sharing)\].
+Send your resume to me if you are interested.
+
+---
+
+#### Undergraduate Research Interns
+We welcome undergraduate students who want hands-on **research experience**.
+Visitthe \[[학부연구생 인턴 모집공고](https://docs.google.com/document/d/1OXMISGCE5Yifgr8pWAJRN-UJlyPIok-kpUw9oDbG3vM/edit?usp=sharing)\] and send your resume to me if you are interested in a unique <font color="red"><b>research intern</b></font> opportunity.
+HCAIL is committed to maximizing your research potential.
 
 ---
