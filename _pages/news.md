@@ -10,6 +10,10 @@ horizontal: false
 
 <h2>2026</h2>
 <ul>
+<li>
+  <p>[<b>Oct. 2026</b>] Our paper was presented at
+  <a href="https://assets26.sigaccess.org/">ASSETS'26</a>, Porto, Portugal (October 2026). :sparkles: :smile:
+</p>
 <li><p>[<b>Sep. 2026</b>] We are pleased to welcome Jamie Luckhaus to HCAIL
 as a visiting researcher. :sparkles: :smile:</p>
 </li>
