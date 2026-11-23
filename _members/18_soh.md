@@ -10,7 +10,7 @@ category: alumni
 ---
 
 ### Short Bio
-<p>SeungYoung Oh is an undergraduate research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>. He expects to receive his B.S. in <a href="https://engineering.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science</a> from the <a href="https://www.uos.ac.kr/">University of Seoul</a> in Feb. 2024.</p>
+<p>SeungYoung Oh is an undergraduate research intern at the <a href="https://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="https://hyunggujung.com">Prof. Hyunggu Jung</a>. He expects to receive his B.S. in <a href="https://engineering.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science</a> from the <a href="https://www.uos.ac.kr/">University of Seoul</a> in Feb. 2024.</p>
 
 ### Education
 <ul>

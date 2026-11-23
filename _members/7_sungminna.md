@@ -10,7 +10,7 @@ category: alumni
 ---
 
 ### Short Bio
-<p>Sungmin Na is a social media coordinator at <a href="https://www.engageadx.com/">EngageADX</a> and a research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>. She received her B.A. in <a href="https://soc.washington.edu//">Sociology </a>at the <a href="https://www.washington.edu/">University of Washington </a>in 2020.</p>
+<p>Sungmin Na is a social media coordinator at <a href="https://www.engageadx.com/">EngageADX</a> and a research intern at the <a href="https://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="https://hyunggujung.com">Prof. Hyunggu Jung</a>. She received her B.A. in <a href="https://soc.washington.edu//">Sociology </a>at the <a href="https://www.washington.edu/">University of Washington </a>in 2020.</p>
 
 ### Education
 <ul>

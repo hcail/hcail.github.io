@@ -13,7 +13,7 @@ category: current
 <p>
 Yunseo is a research intern at the <a href="https://hcail.snu.ac.kr">
 Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of
-<a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
+<a href="https://hyunggujung.com">Prof. Hyunggu Jung</a>.
 </p>
 
 ### Education

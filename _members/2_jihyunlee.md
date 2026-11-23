@@ -10,7 +10,7 @@ category: alumni
 ---
 
 ### Short Bio
-<p>Jihyun Lee is a research intern at <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>. She received her B.S. in <a href="http://swcon.khu.ac.kr/">Software Convergence</a> in 2022 at <a href="https://www.khu.ac.kr">Kyung Hee University</a>.</p>
+<p>Jihyun Lee is a research intern at <a href="https://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="https://hyunggujung.com">Prof. Hyunggu Jung</a>. She received her B.S. in <a href="http://swcon.khu.ac.kr/">Software Convergence</a> in 2022 at <a href="https://www.khu.ac.kr">Kyung Hee University</a>.</p>
 
 ### Education
 <ul>

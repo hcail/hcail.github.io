@@ -10,7 +10,7 @@ category: alumni
 ---
 
 ### Short Bio
-<p>Youngeun Ju is an undergraduate research intern at <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>. She is expecting to receive her B.S. in <a href="https://engineering.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science</a> from <a href="https://www.uos.ac.kr/">University of Seoul</a> by Feb.2026.</p>
+<p>Youngeun Ju is an undergraduate research intern at <a href="https://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="https://hyunggujung.com">Prof. Hyunggu Jung</a>. She is expecting to receive her B.S. in <a href="https://engineering.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science</a> from <a href="https://www.uos.ac.kr/">University of Seoul</a> by Feb.2026.</p>
 
 ### Education
 <ul>

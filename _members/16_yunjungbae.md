@@ -10,7 +10,7 @@ category: alumni
 ---
 
 ### Short Bio
-<p>Yunjung Bae is an undergraduate student majoring in <a href="https://dornsife.usc.edu/cognitive-science">Cognitive Science</a> at the <a href="https://www.usc.edu/">University of Southern California</a>. She is a undergraduate research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>. She is a recipient of the 2022 <a href="https://dornsife.usc.edu/scholarship-descriptions/#haltom">Margaret P. and Paul T. Haltom, Sr. Endowed Scholarship</a>.</p>
+<p>Yunjung Bae is an undergraduate student majoring in <a href="https://dornsife.usc.edu/cognitive-science">Cognitive Science</a> at the <a href="https://www.usc.edu/">University of Southern California</a>. She is a undergraduate research intern at the <a href="https://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="https://hyunggujung.com">Prof. Hyunggu Jung</a>. She is a recipient of the 2022 <a href="https://dornsife.usc.edu/scholarship-descriptions/#haltom">Margaret P. and Paul T. Haltom, Sr. Endowed Scholarship</a>.</p>
 
 ### Education
 <ul>

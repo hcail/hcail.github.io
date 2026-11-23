@@ -10,7 +10,7 @@ category: alumni
 ---
 
 ### Short Bio
-<p>Taewon Yoo is a software engineer at <a href="https://www.pentasecurity.co.kr">Penta Security Systems Inc.</a> and an undergraduate research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>. He is also pursuing a B.S. in <a href="http://swcon.khu.ac.kr/">Software Convergence</a>, concentration in Data Science, at <a href="https://www.khu.ac.kr">Kyung Hee University</a>. </p>
+<p>Taewon Yoo is a software engineer at <a href="https://www.pentasecurity.co.kr">Penta Security Systems Inc.</a> and an undergraduate research intern at the <a href="https://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="https://hyunggujung.com">Prof. Hyunggu Jung</a>. He is also pursuing a B.S. in <a href="http://swcon.khu.ac.kr/">Software Convergence</a>, concentration in Data Science, at <a href="https://www.khu.ac.kr">Kyung Hee University</a>. </p>
 
 ### Education
 <ul>

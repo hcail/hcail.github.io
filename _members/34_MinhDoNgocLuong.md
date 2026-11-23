@@ -13,7 +13,7 @@ category: current
 <p>Minh Do Ngoc Luong is a Master's student of informatics in the
 <a href="https://nursing.snu.ac.kr/en">College of Nursing</a>
 at <a href="https://en.snu.ac.kr/">Seoul National University</a>.
-She was a research intern at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.
+She was a research intern at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="https://hyunggujung.com">Prof. Hyunggu Jung</a>.
 She received her B.S. in <a href="https://cse.snu.ac.kr/">Computer Science and Engineering </a>at the <a href="https://en.snu.ac.kr/">Seoul National University</a> in February 2025.</p>
 
 ### Education

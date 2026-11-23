@@ -10,7 +10,7 @@ category: current
 ---
 
 ### Short Bio
-<p>Jamie is a visiting researcher at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>,
+<p>Jamie is a visiting researcher at the <a href="https://hcail.snu.ac.kr">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="https://hyunggujung.com">Prof. Hyunggu Jung</a>,
 and a PhD candidate at Uppsala University, Sweden in the Participatory eHealth and Health Data research group. Her PhD research examines self-care in Parkinson's disease through the lens of digital health and participatory research. Using qualitative, quantitative, and co-design methods, she explores how people living with Parkinson's can be better supported through person-centered approaches and innovative health technologies.
 </p>
 

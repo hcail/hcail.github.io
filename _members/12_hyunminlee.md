@@ -10,7 +10,7 @@ category: alumni
 ---
 
 ### Short Bio
-<p>Hyunmin Lee is a Master's student majoring in <a href="https://engineering.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science</a> at the <a href="https://www.uos.ac.kr">University of Seoul</a>. He is a research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.</p>
+<p>Hyunmin Lee is a Master's student majoring in <a href="https://engineering.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science</a> at the <a href="https://www.uos.ac.kr">University of Seoul</a>. He is a research intern at the <a href="https://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="https://hyunggujung.com">Prof. Hyunggu Jung</a>.</p>
 
 ### Education
 <ul>
