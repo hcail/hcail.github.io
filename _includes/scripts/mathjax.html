@@ -1,11 +1,14 @@
   {%- if site.enable_math -%}
-  <!-- MathJax -->
+  <!-- MathJax (self-hosted script; web fonts still served from jsdelivr) -->
   <script type="text/javascript">
     window.MathJax = {
       tex: {
         tags: 'ams'
+      },
+      chtml: {
+        fontURL: 'https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/output/chtml/fonts/woff-v2'
       }
     };
   </script>
-  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@{{ site.mathjax.version }}/es5/tex-mml-chtml.js" integrity="{{ site.mathjax.integrity }}" crossorigin="anonymous"></script>
+  <script defer type="text/javascript" id="MathJax-script" src="{{ '/assets/js/lib/mathjax-3.2.0-tex-mml-chtml.js' | relative_url }}"></script>
   {%- endif %}

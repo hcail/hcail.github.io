@@ -389,10 +389,7 @@ bootstrap:
     css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
     js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
 bootstrap-table:
-  version: "1.21.4"
-  integrity:
-    css: "sha256-ezk9vUQQnVWNo+glmPNR+k4WT2XYOFElVKpAvlXNSH8="
-    js: "sha256-q5iWbZqpnj+0f/pfV4ug9WntC56x368sFdlz+lRVLfc="
+  version: "1.28.0"  # self-hosted in assets/js/lib, assets/css/lib
 bootstrap-toc:
   version: "1.0.1"
   integrity:
