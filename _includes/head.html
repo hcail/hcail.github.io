@@ -1,6 +1,6 @@
     <!-- Security policies (SNU WSCAN: Referrer-Policy, CSP) -->
     <meta name="referrer" content="strict-origin-when-cross-origin">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data:; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; frame-src https:; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data:; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://d1bxh8uas1mnw7.cloudfront.net https://embed.altmetric.com https://badge.dimensions.ai https://giscus.app{% if site.disqus_shortname %} https://{{ site.disqus_shortname }}.disqus.com https://c.disquscdn.com{% endif %}{% if site.enable_google_analytics %} https://www.googletagmanager.com{% endif %}{% if site.enable_panelbear_analytics %} https://cdn.panelbear.com{% endif %}; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; frame-src https:; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests">
 
     <!-- Metadata, OpenGraph and Schema.org -->
     {% include metadata.html %}
